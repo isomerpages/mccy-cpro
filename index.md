@@ -18,13 +18,13 @@ sections:
               url: https://google.com
             - title: Resources
               description: some resources you can refer to
-              url: https://gmail.com
+              url: /resources/
             - title: Media Centre
               description: media resources
-              url: https://gmail.com
+              url: /media-centre/
             - title: Connect
               description: get in touch with us
-              url: /privacy/
+              url: /connect/
     - infobar:
         title: Infobar title
         subtitle: Subtitle

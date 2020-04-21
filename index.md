@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Crisis Prepardness for Religious Organisation
+        subtitle: Welcome to our site!
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/

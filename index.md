@@ -15,10 +15,10 @@ sections:
         key_highlights:
             - title: About CPRO
               description: what CPRO is about
-              url: https://google.com
+              url: /about-us/
             - title: Resources
               description: some resources you can refer to
-              url: /resources/
+              url: /resources/forms/
             - title: Media Centre
               description: media resources
               url: /media-centre/

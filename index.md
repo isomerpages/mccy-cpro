@@ -14,16 +14,16 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: About CPRO
-              description: Important highlight A is important
+              description: what CPRO is about
               url: https://google.com
             - title: Resources
-              description: Important highlight B is equally important
+              description: some resources you can refer to
               url: https://gmail.com
             - title: Media Centre
-              description: Important highlight B is equally important
+              description: media resources
               url: https://gmail.com
             - title: Connect
-              description: Page A is important too
+              description: get in touch with us
               url: /privacy/
     - infobar:
         title: Infobar title

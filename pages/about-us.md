@@ -20,6 +20,7 @@ Our partners include the Singapore Police Force, Singapore Civil Defence Force, 
 IRCCs are local-level interfaith platforms in every constituency, forme dto promote racial and religious harmony. The work of the IRCCs is instrumental in strengthening our social cohesion and supports the SGSecure movement. Click <a href="www.ircc.sg">here</a> for more information. 
 
 <b>SGSecure</b>
+
 SGSecure is the national movement to sensitise, train and mobilise Singaporeans in preventing and dealing with a terrorist attack. Click <a href="www.sgsecure.sg">here</a> for more information.
 
 <b>Singapore Police Force</b>
@@ -31,12 +32,14 @@ The Singapore Police Force administers Safety & Security Watch Group (SSWG) sche
 The Singapore Civil Defence Force provides training on core lifesaving skills and essential emergency procedures. Click <a href="https://www.scdf.gov.sg/home/community-volunteers/community-emergency-preparedness-programme-(cepp)">here</a> for more information.
 
 <b>Temasek Foundation</b>
-Temasek Foundation sponsors programmes to build psychological resilience capabilities such as administering psychological first aid and mental wellness, and developing psychological resilience plans for your organisation. Click <a href="www.temasekfoundationcares..org/b-prep">here</a> for more information. 
+
+Temasek Foundation sponsors programmes the Stay Prepared- Business Psychological Resilience Programme (B-PREP) to build psychological resilience capabilities such as administering psychological first aid and mental wellness, and developing psychological resilience plans for your organisation. Click <a href="https://www.temasekfoundation-cares.org.sg/page/5/stay-prepared/stay-prepared-programmes?p=7">here</a> for more information. 
 
 <b>OnePeople.sg</b>
+
 OnePeople.sg provides mediation training to community leaders. Click <a href="www.onepeople.sg">here</a> for more information. 
 
-<b>To enrol in the programmes above, please complete this <a href="www.go.gov.sg/cpro>CPRO self-assessment checklist</a></b> 
+<b>To enrol in the programmes above, please complete this <a href="www.go.gov.sg/cpro">CPRO Self-Assessment Checklist</a></b> 
 
 
 

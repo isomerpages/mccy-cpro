@@ -14,17 +14,16 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: About CPRO
-              description: The Crisis Preparedness for Religious Organisations (CPRO) programme aims to strengthen crisis preparedness of Religious Organisations by building capabilities to protect their premises and congregants, and help others in the community in times of crises. The CPRO is an initiative under MCCY’s SGSecure Community Network (SGCN) to ensure that all ROs are well-prepared for crises. MCCY partnered representatives from Religious Organisations to develop the programme, and established partnerships with security and community partners. 
-
+              description: Find Out More
               url: /about-us/
-            - title: Resources
-              description: some resources you can refer to
+            - title: On COVID-19
+              description: Forms, Advisories and Useful Materials
               url: /resources/forms/
             - title: Media Centre
-              description: media resources
+              description: Media Resources
               url: /media-centre/
             - title: Connect
-              description: get in touch with us
+              description: Get in touch with us
               url: /connect/
     - infobar:
         title: Infobar title

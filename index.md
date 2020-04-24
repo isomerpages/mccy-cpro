@@ -16,7 +16,7 @@ sections:
             - title: About CPRO
               description: Find Out More
               url: /about-us/
-            - title: On COVID-19
+            - title: COVID-19
               description: Forms, Advisories and Useful Materials
               url: /resources/forms/
             - title: Media Centre

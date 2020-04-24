@@ -1,5 +1,5 @@
 ---
-title: Forms
+title: Declaration Form for Religious Organisations
 permalink: /resources/forms/
 ---
 

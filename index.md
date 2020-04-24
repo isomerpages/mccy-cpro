@@ -26,8 +26,7 @@ sections:
               description: Get in touch with us
               url: /connect/
     - infobar:
-        title: Submission of Declaration Form for Religious Organisations
-        subtitle: Please submit your <a href="https://go.gov.sg/declaration-ro">COVID-19 Declaration Form for Religious Organisations</a> before applying for a Time-Limited Exemption at <a href="https://Covid.gobusiness.gov.sg">Covid.gobusiness.gov.sg</a>
+               subtitle: Please submit your <a href="https://go.gov.sg/declaration-ro">COVID-19 Declaration Form for Religious Organisations</a> before applying for a Time-Limited Exemption at <a href="https://Covid.gobusiness.gov.sg">Covid.gobusiness.gov.sg</a>
        
     - resources:
         title: Media

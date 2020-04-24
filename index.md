@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Crisis Preparedness for Religious Organisation
         subtitle: Welcome to our site!
-        background: /images/banner-covid19.png
+        background: /images/Banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:

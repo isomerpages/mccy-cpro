@@ -7,4 +7,4 @@ permalink: /resources/forms/
 
 Elaborate here first
 
-Click [HERE](form.sg link goes here) for the COVID-19 Exemption Form.
+Click [HERE](www.go.gov.sg/declaration-ro) to submit Declaration Form for Religious Organisations before applying for the Time-Limited Exemption at covid.gobusiness.gov.sg

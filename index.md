@@ -2,14 +2,14 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Logo.png
 permalink: /
 notification: Please submit your COVID-19 Declaration Form for Religious Organisations before applying for a Time-Limited Exemption at Covid.gobusiness.gov.sg
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisation
         subtitle: Welcome to our site!
-        background: /images/hero-banner.png
+        background: /images/banner-covid19.png
         button: Contact Us
         url: /contact-us/
         key_highlights:

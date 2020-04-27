@@ -7,5 +7,4 @@ permalink: /connect/
 
 Get in Touch with Crisis Preparedness for Religious Organisations Programme
 
-For enquiries, please email to CPRO@mccy.gov.sg.
-
+For enquiries, please contact us <a href="https://go.gov.sg/contactcpro"><b>here</b></a>

@@ -1,4 +1,4 @@
 ---
 title: COVID-19 Advisories
-permalink: /media-centre/advisories/
+permalink: /media-centre/
 ---

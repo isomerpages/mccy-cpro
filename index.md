@@ -11,7 +11,7 @@ sections:
         subtitle: Welcome to our site!
         background: /images/robanner.png
         button: Contact Us
-        url: /contact-us/
+        url: /resources/forms/
         key_highlights:
             - title: About CPRO
               description: Find Out More

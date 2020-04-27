@@ -25,7 +25,7 @@ sections:
               description: Get in touch with us
               url: /connect/
     - infobar:
-               subtitle: xxx
+               subtitle: "We will continue to work closely with our communities to keep Singapore and our people safe. To protect everyone’s well-being, we urge our congregants to work with their religious leaders in implementing the precautionary measures advised by MOH and MCCY. By supporting each other in these challenging times and exercising social responsibility, we can overcome COVID-19, and emerge even stronger and more resilient" - Minister Grace Fu, Statement in support of staying united against COVID-19
        
     - resources:
         title: Media

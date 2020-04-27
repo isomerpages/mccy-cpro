@@ -8,10 +8,10 @@ notification: Please submit your <a href="https://go.gov.sg/declaration-ro">COVI
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisation
-        subtitle: Please submit your <a href="https://go.gov.sg/declaration-ro">COVID-19 Declaration Form for Religious Organisations</a> before applying for a Time-Limited Exemption at <a href="https://Covid.gobusiness.gov.sg">covid.gobusiness.gov.sg</a>
+        subtitle: <p>Please submit your COVID-19 Declaration Form for Religious Organisations before applying for a Time-Limited Exemption at covid.gobusiness.gov.sg</p>
         background: /images/CPRO bannerv2.jpg
-        button: test
-        url: /resources/forms/
+        button: Declaration Form
+        url: www.go.gov.sg/declaration-ro
         key_highlights:
             - title: About CPRO
               description: Find Out More

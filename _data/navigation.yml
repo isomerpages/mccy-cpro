@@ -8,10 +8,10 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: Contact Us
-    url: /contact-us/
+    url: /connect/
   - title: Who We Are
     url: /who-we-are/
-  - title: Resources
+  - title: COVID-19
     collection: resources
   - title: Media Centre
     resource_room: true

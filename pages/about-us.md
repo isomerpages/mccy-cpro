@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: CPRO
 permalink: /about-us/
 ---
 

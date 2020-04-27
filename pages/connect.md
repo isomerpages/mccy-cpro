@@ -7,4 +7,4 @@ permalink: /connect/
 
 Get in Touch with Crisis Preparedness for Religious Organisations Programme
 
-For enquiries, please contact us <a href="https://go.gov.sg/contactcpro"><b>here</b></a>
+Please contact us <a href="https://go.gov.sg/contactcpro"><b><u>here</u></b></a> for enquiries. 

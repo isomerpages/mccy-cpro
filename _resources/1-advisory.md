@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Advisories
-
+permalink: /resources/Advisories/
 ---
 
 ### COVID-19: MCCY advisory to religious organisations on elevated safe distancing measures issued on 4 April 2020 ###

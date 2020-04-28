@@ -10,7 +10,7 @@ links:
   - title: Contact Us
     url: /connect/
   - title: CPRO
-    url: /about-us/
+    collection: cpro
   - title: COVID-19
     collection: resources
   - title: Media Centre

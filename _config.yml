@@ -20,6 +20,8 @@ colors:
 
 
 collections:
+  cpro:
+    output: true
   resources:
     output: true
 resources_name: media-centre

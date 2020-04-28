@@ -33,3 +33,6 @@ Temasek Foundation sponsors programmes the Stay Prepared- Business Psychological
 <b>OnePeople.sg</b>
 
 OnePeople.sg provides mediation training to community leaders. Click <a href="www.onepeople.sg">here</a> for more information. 
+
+
+<b>To enrol in the programmes above, please complete this <a href="www.go.gov.sg/cpro">CPRO Self-Assessment Checklist</a></b> 

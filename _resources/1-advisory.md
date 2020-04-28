@@ -6,6 +6,7 @@ permalink: /media-centre/advisories/
 ### COVID-19: MCCY advisory to religious organisations on elevated safe distancing measures issued on 4 April 2020 ###
 
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/covid-19-mccy-advisory-to-religious-organisations-on-elevated-safe-distancing-measures) to view. 
+* Click [here](/media/1-COVID-19MCCYAdvisoryonReligiousActivities.pdf) to download.
 
 ### COVID-19: MCCY advisory to religious organisations on elevated safe distancing measures issued on 4 April 2020 ###
 

@@ -4,7 +4,7 @@ title: Useful Materials
 permalink: /resources/useful-materials/
 ---
 
-**To view more advisories related to COVID-19, please visit Ministry of Health's [website](https://www.moh.gov.sg/covid-19**
+**To view more advisories related to COVID-19, please visit Ministry of Health's [website](https://www.moh.gov.sg/covid-19)**
 
 ### Useful infographics on COVID-19
 

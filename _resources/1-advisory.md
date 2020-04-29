@@ -14,3 +14,4 @@ permalink: /resources/Advisories/
 * Click [here](/media/2-COVID-19MCCYAdvisory.pdf) to download.
 
 
+**To view more COVID-19 advisories, please visit Ministry of Health's [website](https://www.moh.gov.sg/covid-19)**

@@ -3,7 +3,7 @@ title: Useful Materials
 permalink: /resources/useful-materials/
 ---
 
-### Useful infographics on COVID-19
+### Useful infographics on COVID-19 ###
 
 We have prepared some useful infographics that you may wish to display or share with your congregants.
 

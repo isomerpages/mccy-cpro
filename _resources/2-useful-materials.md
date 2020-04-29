@@ -1,6 +1,6 @@
 ---
 title: Useful Materials
-image: /images/Infographic2.JPG
+![Infog](/images/Infographic2.JPG#thumbnail)
 permalink: /resources/useful-materials/
 ---
 

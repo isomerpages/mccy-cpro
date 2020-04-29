@@ -8,7 +8,7 @@ permalink: /resources/useful-materials/
 
 We have prepared some useful infographics that you may wish to display or share with your congregants.
 
-![Infographic](/images/Infographic2.JPG)
+![Infographic](/images/infographic.png)
 
 Click [here](/media/FA_200427_MCCY_IRCCSG_CircuitBreaker_EN.pdf) to download in English.
 

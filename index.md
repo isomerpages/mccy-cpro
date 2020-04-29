@@ -8,7 +8,7 @@ notification: Please submit your <a href="https://go.gov.sg/declaration-ro">COVI
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisation
-        subtitle: Please submit your COVID-19 Declaration Form for Religious Organisations before applying for a Time-Limited Exemption at covid.gobusiness.gov.sg
+        subtitle: <p>Please submit your COVID-19 Declaration Form for Religious Organisations before applying for a Time-Limited Exemption at covid.gobusiness.gov.sg</p>
         background: /images/Banner4.png/
         button: Declaration Form
         url: "https://www.go.gov.sg/declaration-ro"

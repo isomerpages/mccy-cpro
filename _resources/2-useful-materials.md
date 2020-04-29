@@ -8,7 +8,7 @@ permalink: /resources/useful-materials/
 
 We have prepared some useful infographics that you may wish to display or share with your congregants.
 
-**A Guide to Religious Activitivies** 
+**A Guide to Religious Activities** 
 
 ![Infographic](/images/infographic.png)
 

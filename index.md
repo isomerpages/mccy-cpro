@@ -7,7 +7,7 @@ permalink: /
 notification: Please submit your <a href="https://go.gov.sg/declaration-ro">COVID-19 Declaration Form for Religious Organisations</a> before applying for a Time-Limited Exemption at <a href="https://Covid.gobusiness.gov.sg">covid.gobusiness.gov.sg</a>
 sections:
     - hero:
-        title: Crisis Preparedness for Religious Organisation
+        title: Crisis Preparedness for Religious Organisations
         subtitle: Please submit your COVID-19 Declaration Form for Religious Organisations before applying for a Time-Limited Exemption at covid.gobusiness.gov.sg
         background: /images/Banner4.png/
         button: Declaration Form

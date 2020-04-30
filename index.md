@@ -27,7 +27,7 @@ sections:
               url: /connect/
     - infobar:
         title:
-        subtitle: WE WILL CONTINUE TO WORK CLOSELY WITH OUR COMMUNITIES TO KEEP SINGAPORE AND OUR PEOPLE SAFE. TO PROTECT EVERYONE'S WELL-BEING, WE URGE OUR CONGREGANTS TO WORK WITH THEIR RELIGIOUS LEADERS IN IMPLEMENTING PRECAUTIONARY MEASURES ADVISED BY MOH AND MCCY. BY SUPPORTING EACH OTHER IN THESE CHALLENGING TIMES AND EXERCISING SOCIAL RESPONSIBILITY, WE CAN OVERCOME COVID-19, AND EMERGE EVEN STRONGER AND MORE RESILIENT. - MINISTER GRACE FU, STATEMENT IN SUPPORT OF STAYING UNITED AGAINST COVID-19, 25 MARCH 2020
+        subtitle: We will continue to work closely with our communities to keep Singapore and our people safe. To protect everyone’s well-being, we urge our congregants to work with their religious leaders in implementing the precautionary measures advised by MOH and MCCY. By supporting each other in these challenging times and exercising social responsibility, we can overcome COVID-19, and emerge even stronger and more resilient. - Statement in support of staying united against COVID-19, National Steering Committee on Racial and Religious Harmony, 25 March 2020 
         description: 
         button:
         url:

@@ -1,6 +1,6 @@
 ---
-title: Useful Materials
-permalink: /resources/useful-materials/
+title: Resources
+permalink: /resources/resources/
 ---
 
 ### Useful infographics on COVID-19

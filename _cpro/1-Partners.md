@@ -12,7 +12,7 @@ Our partners include the Singapore Police Force, Singapore Civil Defence Force, 
 
 **Inter-Racial and Religious Confidence Circles (IRCCs)**
 
-IRCCs are local-level interfaith platforms in every constituency, forme dto promote racial and religious harmony. The work of the IRCCs is instrumental in strengthening our social cohesion and supports the SGSecure movement. Click [here]("www.ircc.sg") for more information. 
+IRCCs are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony. The work of the IRCCs is instrumental in strengthening our social cohesion and supports the SGSecure movement. Click [here]("www.ircc.sg") for more information. 
 
 **SGSecure**
 

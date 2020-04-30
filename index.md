@@ -17,10 +17,10 @@ sections:
               description: Find Out More
               url: /cpro/about-cpro/
             - title: COVID-19
-              description: Forms, Advisories and Useful Materials
+              description: Forms, Advisories and Resources
               url: /resources/forms/
             - title: Media Centre
-              description: Media Resources
+              description: News
               url: /media-centre/
             - title: Connect
               description: Get in touch with us

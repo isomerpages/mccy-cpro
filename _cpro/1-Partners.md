@@ -12,15 +12,15 @@ Our partners include the Singapore Police Force, Singapore Civil Defence Force, 
 
 **Inter-Racial and Religious Confidence Circles (IRCCs)**
 
-IRCCs are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony. The work of the IRCCs is instrumental in strengthening our social cohesion and supports the SGSecure movement. Click [here](www.ircc.sg) for more information. 
+IRCCs are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony. The work of the IRCCs is instrumental in strengthening our social cohesion and supports the SGSecure movement. Click [here](https://www.ircc.sg/) for more information. 
 
 **SGSecure**
 
-SGSecure is the national movement to sensitise, train and mobilise Singaporeans in preventing and dealing with a terrorist attack. Click [here](www.sgsecure.sg) for more information.
+SGSecure is the national movement to sensitise, train and mobilise Singaporeans in preventing and dealing with a terrorist attack. Click [here](https://www.sgsecure.sg/) for more information.
 
 **Singapore Police Force**
 
-The Singapore Police Force administers Safety & Security Watch Group (SSWG) scheme, to equips buildings within a geographical cluster with stronger measures to fight crime and terrorism threats. Under this scheme, the Police will conduct a security survey of your organization and advise on your contingency plans. SSWG members can also network with neighbouring buildings and Police to know about security best practices and pooling of resources. Click [here](www.police.gov.sg/community/community-programmes/safety-and-security-watch-group) for more information.
+The Singapore Police Force administers Safety & Security Watch Group (SSWG) scheme, to equips buildings within a geographical cluster with stronger measures to fight crime and terrorism threats. Under this scheme, the Police will conduct a security survey of your organization and advise on your contingency plans. SSWG members can also network with neighbouring buildings and Police to know about security best practices and pooling of resources. Click [here](https://www.police.gov.sg/community/community-programmes/safety-and-security-watch-group) for more information.
 
 **Singapore Civil Defence Force**
 
@@ -32,7 +32,7 @@ Temasek Foundation sponsors programmes the Stay Prepared- Business Psychological
 
 **OnePeople.sg**
 
-OnePeople.sg provides mediation training to community leaders. Click [here](www.onepeople.sg) for more information. 
+OnePeople.sg provides mediation training to community leaders. Click [here](http://www.onepeople.sg/) for more information. 
 
 
-**To enrol in the programmes above, please complete this [CPRO Self-Assessment Checklist](www.go.gov.sg/cpro)**
+**To enrol in the programmes above, please complete this [CPRO Self-Assessment Checklist](https://form.gov.sg/#!/5e1987863acc0e00113fe180)**

@@ -3,7 +3,7 @@ title: About CPRO
 permalink: /cpro/about-cpro/
 ---
 
-### About Crisis Preparedness for Religious Organisation (CPRO)
+### About Crisis Preparedness for Religious Organisations (CPRO)
 
 The Crisis Preparedness for Religious Organisations (CPRO) programme aims to strengthen crisis preparedness of Religious Organisations by building capabilities to protect their premises and congregants, and help others in the community in times of crises.
 

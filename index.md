@@ -4,20 +4,16 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
-notification: Please submit your <a href="https://go.gov.sg/declaration-ro">COVID-19 Declaration Form for Religious Organisations</a> before applying for a Time-Limited Exemption at <a href="https://Covid.gobusiness.gov.sg">covid.gobusiness.gov.sg</a>
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations
-        subtitle: Please submit your COVID-19 Declaration Form for Religious Organisations before applying for a Time-Limited Exemption at covid.gobusiness.gov.sg
         background: /images/Banner7.png
-        button: Declaration Form
-        url: https://www.go.gov.sg/declaration-ro
         key_highlights:
             - title: CPRO
               description: Find Out More
               url: /cpro/about-cpro/
             - title: COVID-19
-              description: Forms, Advisories and Resources
+              description: Advisories and Resources
               url: /resources/forms/
             - title: Media Centre
               description: News

@@ -9,4 +9,4 @@ The Crisis Preparedness for Religious Organisations (CPRO) programme aims to str
 
 The CPRO is an initiative under the Ministry of Culture, Community and Youth (MCCY)’s SGSecure Community Network (SGCN) to ensure that all ROs are well-prepared for crises. MCCY partnered representatives from Religious Organisations to develop the programme, and established partnerships with security and community partners. 
 
-![MCCY](/images/MCCY.jpg)
+![MCCY](/images/MCCY.jpg){width=200px}

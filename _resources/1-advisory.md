@@ -3,6 +3,11 @@ title: COVID-19 Advisories
 permalink: /resources/Advisories/
 ---
 
+### COVID-19: Additional Guidance to Religious Organisations for Permitted On-site Activities issued on 
+
+* Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/covid-19-mccy-advisory-to-religious-organisations-on-elevated-safe-distancing-measures) to view. - pending
+* Click [here](/media/3-Addadvisory3.pdf) for PDF.
+
 ### COVID-19: MCCY advisory to religious organisations on elevated safe distancing measures issued on 4 April 2020
 
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/covid-19-mccy-advisory-to-religious-organisations-on-elevated-safe-distancing-measures) to view. 

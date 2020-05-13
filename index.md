@@ -4,6 +4,7 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
+notification:
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations

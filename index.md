@@ -8,10 +8,10 @@ notification: Religious Organisations must apply to the Ministry of Trade and In
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations
-        subtitle: Religious Organisations must apply to the Ministry of Trade and Industry for a <a href="https://covid.gobusiness.gov.sg/">Time-Limited Exemption</a> one day prior to proceeding with permitted on-site activities and must inform MCCY of these applications. 
+        subtitle: 
         background: /images/Banner7.png
-        button: Click here to submit to MCCY
-        url: https://go.gov.sg/tledetails
+        button: 
+        url: 
         key_highlights:
             - title: CPRO
               description: Find Out More

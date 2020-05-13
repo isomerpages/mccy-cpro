@@ -1,4 +1,4 @@
-notification---
+---
 layout: homepage
 title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
@@ -24,7 +24,6 @@ sections:
             - title: Connect
               description: Get in touch with us
               url: /connect/
-              
     - infobar:
         title:
         subtitle: We will continue to work closely with our communities to keep Singapore and our people safe. To protect everyone’s well-being, we urge our congregants to work with their religious leaders in implementing the precautionary measures advised by MOH and MCCY. By supporting each other in these challenging times and exercising social responsibility, we can overcome COVID-19, and emerge even stronger and more resilient. - Statement in support of staying united against COVID-19, National Steering Committee on Racial and Religious Harmony, 25 March 2020 

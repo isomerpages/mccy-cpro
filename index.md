@@ -8,10 +8,8 @@ notification: Religious Organisations must apply to the Ministry of Trade and In
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations
-        subtitle: 
         background: /images/Banner7.png
-        button: 
-        url: 
+
         key_highlights:
             - title: CPRO
               description: Find Out More

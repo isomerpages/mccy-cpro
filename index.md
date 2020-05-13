@@ -9,7 +9,6 @@ sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations
         background: /images/Banner7.png
-
         key_highlights:
             - title: CPRO
               description: Find Out More

@@ -4,15 +4,15 @@ favicon: /images/icon.jpg
 
 # Site colors
 colors:
-  primary-color: '	#26265b'
-  secondary-color: '#939398'
+  primary-color: '#26265b'
+  secondary-color: '#595959'
   media-colors:
     - title: media-color-one
-      color: '#808080'
-    - title: media-color-two
-      color: '#808080'
-    - title: media-color-three
       color: '#5c6483'
+    - title: media-color-two
+      color: '#5c6483'
+    - title: media-color-three
+      color: '#00838f'
     - title: media-color-four
       color: '#00838f'
     - title: media-color-five

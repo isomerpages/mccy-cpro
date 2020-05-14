@@ -4,6 +4,7 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
+notification: Religious Organisations must apply to the Ministry of Trade and Industry for a <a target="_blank" href="https://covid.gobusiness.gov.sg/">Time-Limited Exemption </a> one day prior to proceeding with permitted on-site activities and must inform MCCY of these applications. Click <a target="_blank" href="https://go.gov.sg/tledetails">here</a> to do so.
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations
@@ -13,8 +14,8 @@ sections:
               description: Find Out More
               url: /cpro/about-cpro/
             - title: COVID-19
-              description: Advisories and Resources
-              url: 	/resources/Advisories/
+              description: Forms, Advisories and Resources
+              url: /resources/TLE/
             - title: Media Centre
               description: News
               url: /media-centre/

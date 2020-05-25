@@ -7,7 +7,7 @@ permalink: /resources/Advisories/
 
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/gradual-resumption-of-religious--activities) to view.
 * Click [here](/media/4GradualResumptionofReligiousActivities.pdf) for PDF.
-* Click [here](/media/FAQonResumptionofReligiousActivities25May.pdf) for FAQs on Resumption of Religious Activities (Phase 1) 
+* Click [here](/media/FAQonResumptionofReligiousActivities25May2020.pdf) for FAQs on Resumption of Religious Activities (Phase 1) 
 
 ### COVID-19: Additional Guidance to Religious Organisations for Permitted On-site Activities issued on 14 May 2020, 0900hrs
 

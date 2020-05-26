@@ -62,5 +62,5 @@ permalink: /resources/FAQ/
   *	MCCY will conduct enforcement checks on ROs and action will be taken against ROs who do not comply with the relevant guidelines, including the cessation of operations.  
 
 **5. My religious organisation has already implemented the safe management plans but needs more time to submit the details to MCCY. Can I request for an extension?**
-  * No. Religious organisations must submit their Safe Management Plans, including manpower deployment, to MCCY within two weeks of re-opening their place of worship and commencing the permitted activities.
+  * No. Religious organisations must submit their [Safe Management Plan](/resources/Resumption-of-Religious-Activities/), including manpower deployment, to MCCY within two weeks of re-opening their place of worship and commencing the permitted activities.
 

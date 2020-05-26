@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Resumption of Religious Activities
-Religious organisations must submit their Safe Management Plans to the Ministry of Culture, Community & Youth within two weeks of re-opening their place of worship and commencing the permitted activities, and continue to apply for Time-Limited Exemption from the Ministry of Trade & Industry. 
+Religious organisations must submit their [Safe Management Plans](#safe-management-plans) to the Ministry of Culture, Community & Youth within two weeks of re-opening their place of worship and commencing the permitted activities, and continue to apply for [Time-Limited Exemption](#time-limited-exemption) from the Ministry of Trade & Industry. 
 
 #### Safe Management Plans
 

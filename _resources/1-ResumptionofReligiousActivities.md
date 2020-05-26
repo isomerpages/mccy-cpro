@@ -1,6 +1,6 @@
 ---
-title: Time-Limited Exemption
-permalink: /resources/TLE/
+title: ResumptionofReligiousActivities
+permalink: /resources/ResumptionofReligious Activities/
 ---
 
 ### Application for Time-Limited Exemption

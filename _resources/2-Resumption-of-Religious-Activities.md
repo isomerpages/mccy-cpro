@@ -1,6 +1,6 @@
 ---
-title: ResumptionofReligiousActivities
-permalink: /resources/ResumptionofReligious Activities/
+title: Resumption of Religious Activities
+permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Application for Time-Limited Exemption

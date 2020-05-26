@@ -4,7 +4,7 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
-notification: Religious Organisations must apply to the Ministry of Trade and Industry for a <a target="_blank" href="https://covid.gobusiness.gov.sg/">Time-Limited Exemption </a> one day prior to proceeding with permitted on-site activities and must inform MCCY of these applications. Click <a target="_blank" href="https://go.gov.sg/tledetails">here</a> to do so.
+notification: Religious Organisations must submit their Safe Management Plan, including manpower deployment, to the Ministry of Culture, Community & Youth within two weeks of re-opening their place of worship and commencing the permitted activities. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit.
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations

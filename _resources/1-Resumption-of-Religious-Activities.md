@@ -10,6 +10,7 @@ All other workplace activities at the religious organisations’ premises must r
 
 #### Safe Management Plans
 Religious organisations must submit their Safe Management Plans, including manpower deployment, to the Ministry of Culture, Community & Youth within two weeks of re-opening their place of worship and commencing the permitted activities.
+
 Click [here](https://form.gov.sg/5ecb2fc6acd2650011501e5b) to submit your Safe Management Plans. Contact us [here](https://form.gov.sg/#!/5ea676523f72e70011cff5f1) if you have queries.
 
 #### Time-Limited Exemption

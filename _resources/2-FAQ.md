@@ -50,12 +50,12 @@ permalink: /resources/FAQ/
   * Yes, a TLE is required if religious workers or staff need to return to the religious organisation’s premises or place of worship to complete urgent administrative tasks that cannot be done remotely.
   * You can apply to MTI for a TLE via [https://covid.gobusiness.gov.sg](https://covid.gobusiness.gov.sg) one day prior to the conduct of such activities. Religious organisations are not required to inform MCCY of these TLE applications. 
   * These TLEs will be capped at twice per week for each religious organisation (by unique entity number).
-  * If additional TLEs are required, religious organisations can appeal to MCCY via cpro@mccy.gov.sg and these will be considered on a case-by-case basis. 
+  * If additional TLEs are required, religious organisations can appeal to MCCY via [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg) and these will be considered on a case-by-case basis. 
   *	For more information on the TLE, please visit [https://covid.gobusiness.gov.sg](https://covid.gobusiness.gov.sg)
   * All religious workers and staff not involved in the permitted on-site activities must telecommute as the default arrangement.
   
 **4. My religious organisation needs more time to develop our safe management plans. Can we still re-open on 2 June 2020 while we prepare concurrently?**
-  * No. All religious organisations must implement safe management measures _before_ re-opening their places of worship for permitted activities in Phase One. This is critical to protect their worshippers as well as religious workers and staff. 
+  * No. All religious organisations must implement safe management measures **before** re-opening their places of worship for permitted activities in Phase One. This is critical to protect their worshippers as well as religious workers and staff. 
   *	You should not open your premises or place of worship on 2 June 2020, if the safe management plan is not in place.
   *	Religious organisations must submit their Safe Management Plans, including manpower deployment, to MCCY within two weeks of re-opening their place of worship and commencing the permitted activities. 
   * The detailed requirements and format for submitting these plans are available [here](/resources/Resumption-of-Religious-Activities/).

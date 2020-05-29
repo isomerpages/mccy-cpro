@@ -44,7 +44,7 @@ permalink: /resources/FAQ/
   * Religious organisations can consider implementing an online appointment system to regulate flow of worshippers on-site. 
   * Beyond this, places of worship must put in place [safe management measures](/resources/Resumption-of-Religious-Activities/) to protect worshippers, religious workers and staff. 
   * These include: designating prayer areas; no sharing of prayer items; safe distancing among worshippers, religious workers and staff; sanitising the prayer area after each use; and one-way flow for entry and exit points.   
-  * Volunteers are not allowed to be mobilised for queue management. 
+  * Religious organisations should deploy staff to manage worshipper/devotee flow on-site. 
 
 **3. Do religious organisations still need to apply to the Ministry of Trade and Industry (MTI) for a Time-Limited Exemption (TLE) prior to returning on-site to complete urgent administrative tasks that cannot be done remotely?**
   * Yes, a TLE is required if religious workers or staff need to return to the religious organisation’s premises or place of worship to complete urgent administrative tasks that cannot be done remotely.

@@ -3,7 +3,7 @@ title: COVID-19 Advisories
 permalink: /resources/Advisories/
 ---
 
-### COVID-19: Advisory on Resumption of More Religious Activities issued on 18 June 2020
+### COVID-19: Advisory on Resumption of More Religious Activities issued in Phase Two on 18 June 2020
 
 * Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) for PDF.
 

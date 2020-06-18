@@ -4,7 +4,7 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
-notification: Religious Organisations must submit their Safe Management Plan, including manpower deployment, to the Ministry of Culture, Community & Youth within two weeks of re-opening their place of worship and commencing the permitted activities. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit.
+notification: Religious Organisations must submit their Safe Management Plan at least 3 days before commencing Phase 2 activities. This includes ROs who have earlier submitted their SMPs in Phase 1. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> for more information.
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations

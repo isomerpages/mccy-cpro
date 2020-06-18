@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Resumption of More Religious Activities (Phase Two)
-In Phase Two, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see MCCY’s [Advisory on Resumption of More Religious Activities in Phase 2](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) issued on 18 June 2020  for more detailed guidance.
+In Phase Two, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see MCCY’s [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) issued on 18 June 2020  for more detailed guidance.
 
 ### Safe Management Plans
 Religious organisations (RO) must submit their Safe Management Plans (SMP) at least 3 days before commencing Phase Two activities. This includes ROs who have earlier submitted their SMP in Phase One.

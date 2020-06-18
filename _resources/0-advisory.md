@@ -3,11 +3,15 @@ title: COVID-19 Advisories
 permalink: /resources/Advisories/
 ---
 
+### COVID-19: Advisory on Resumption of More Religious Activities issued on 18 June 2020
+
+* Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) for PDF.
+* Click [here](/resources/FAQ/) for FAQs on Resumption of More Religious Activities (Phase 2) 
+
 ### COVID-19: Advisory on Gradual Resumption of Religious Activities issued on 25 May 2020, 1600hrs
 
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/gradual-resumption-of-religious-activities) to view.
 * Click [here](/media/AdvisoryGradualResumptionofReligiousActivities.pdf) for PDF.
-* Click [here](/resources/FAQ/) for FAQs on Resumption of Religious Activities (Phase 1) 
 
 ### COVID-19: Additional Guidance to Religious Organisations for Permitted On-site Activities issued on 14 May 2020, 0900hrs
 

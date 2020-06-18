@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 permalink: /resources/FAQ/
 ---
 
-### Frequently Asked Questions
+### Frequently Asked Questions (Phase 1)
 
 [General FAQ](#general)
 

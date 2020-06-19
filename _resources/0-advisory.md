@@ -5,6 +5,7 @@ permalink: /resources/Advisories/
 
 ### COVID-19: Advisory on Resumption of More Religious Activities issued in Phase Two on 18 June 2020
 
+* Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/jun/resumption-of-more-religious-activities-in-phase-two) to view.
 * Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) for PDF.
 * Click [here](/resources/faq/) for FAQs for Phase One.
 

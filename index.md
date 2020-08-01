@@ -4,7 +4,7 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
-notification: Religious Organisations must submit their Safe Management Plan at least 3 days before commencing Phase Two activities. In view of the new provisions for marriage solemnnization and funeral / wakes (w.e.f. 4 August 2020), ROs must submit an acknowledgement form before proceeding. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit.
+notification: Religious Organisations must submit their Safe Management Plan at least 3 days before commencing Phase Two activities. In view of the new provisions for marriage solemnnizations, funerals and wakes (w.e.f. 4 August 2020), ROs must submit an acknowledgement form before proceeding. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit.
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations

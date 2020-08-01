@@ -4,7 +4,9 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Changes to Marriage Solemnizations, and Wakes and Funerals 
-On 30 July 2020, the Multi-Ministry Taskforce announced that marriage solemnizations can involve up to 50 persons or wakes/funerals for up to 30 persons. Please read [MOH's Safe Management Measures for Marriage Solemnizations and Receptions](https://go.gov.sg/weddings) and paragraphs 4 to 6 in MCCY's updated [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf). ROs which have submitted their Safe Management Plan (SMP) must submit an acknowledgement form [here](https://go.gov.sg/roacknowledgement) before proceeding with these activities. 
+On 30 July 2020, the Multi-Ministry Taskforce announced that marriage solemnizations can involve up to 50 persons or wakes/funerals for up to 30 persons. Please read [MOH's Safe Management Measures for Marriage Solemnizations and Receptions](https://go.gov.sg/weddings) and paragraphs 4 to 6 in MCCY's updated [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf). 
+
+ROs which have submitted their Safe Management Plan (SMP) must submit an acknowledgement form [here](https://go.gov.sg/roacknowledgement) before proceeding with these activities. 
 
 ### Resumption of More Religious Activities (Phase Two)
 In Phase Two, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see MCCY’s [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) issued on 1 August 2020  for more detailed guidance. Religious organisations (RO) must submit their **Safe Management Plans for Resumption of More Religious Actvities in Phase Two** at least 3 days before commencing Phase Two activities. This includes ROs who have earlier submitted their SMP in Phase One.

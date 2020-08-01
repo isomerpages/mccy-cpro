@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Changes to Marriage Solemnizations, Wakes and Funerals 
-On 30 July 2020, the Multi-Ministry Taskforce announced that marriage solemnizations can involve up to 50 persons and wakes/funerals can involved up to 30 persons. Please read [MOH's Safe Management Measures for Marriage Solemnizations and Receptions](https://go.gov.sg/weddings) and paragraphs 4 to 6 in MCCY's updated [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf). 
+On 30 July 2020, the Multi-Ministry Taskforce announced that marriage solemnizations can involve up to 50 persons, and funerals and wakes can involved up to 30 persons. Please read [MOH's Safe Management Measures for Marriage Solemnizations and Receptions](https://go.gov.sg/weddings) and paragraphs 4 to 6 in MCCY's updated [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf). 
 
 ROs which have submitted their Safe Management Plan (SMP) must submit an acknowledgement form [here](https://go.gov.sg/roacknowledgement) before proceeding with these activities. 
 

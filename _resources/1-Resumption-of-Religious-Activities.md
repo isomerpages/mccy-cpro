@@ -11,7 +11,9 @@ Religious organisations (RO) must submit their Safe Management Plans (SMP) at le
 
 * For ROs who have submitted their SMPs in Phase One, click [here](https://www.form.gov.sg/5ee9731b6319c2001142d399) to submit the additional safe management measures for Phase Two activities.
 * For ROs who have **NOT** submitted their SMPs in Phase One, click [here](https://www.form.gov.sg/5eeb1acc5a361100119ea96f) to submit the full set of safe management measures for Phase Two activities.
-* For ROs who have submitted their SMPs in Phase Two and wish to conduct marriage solemnization s for up to 50 persons or wakes/funerals for up to 30 persons, please read paragraphs 4 to 6 in MCCY's updated [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) and [MOH's Safe Management Measures for Marriage Solemnizations and Receptions](https://go.gov.sg/weddings). You must submit an acknowledgement [here](https://go.gov.sg/roacknowledgement). 
+
+#### Marriage Solemnizations and Wakes / Funerals 
+For ROs who have submitted their SMPs in Phase Two and wish to conduct marriage solemnizations for up to 50 persons or wakes/funerals for up to 30 persons, please read paragraphs 4 to 6 in MCCY's updated [Advisory on Resumption of More Religious Activities in Phase Two](/media/ResumptionofMoreReligiousActivitiesinPhase2.pdf) and [MOH's Safe Management Measures for Marriage Solemnizations and Receptions](https://go.gov.sg/weddings). You must submit an acknowledgement [here](https://go.gov.sg/roacknowledgement). 
 
 ROs who would like to amend their submitted SMPs may email to [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg).
 

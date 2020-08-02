@@ -4,7 +4,7 @@ permalink: /resources/Advisories/
 ---
 
 
-### COVID-19: *Updated* Advisory on Resumption of More Religious Activities issued in Phase Two on 18 June 2020
+### COVID-19: Updated Advisory on Resumption of More Religious Activities in Phase Two
 This advisory has been updated to reflect the easing of restrictions on weddings, funerals and wakes as announced by Ministry of Health on 30 July 2020
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/aug/resumption-of-more-religious-activities-in-phase-two) to view.
 * Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase2updated.pdf) for PDF.

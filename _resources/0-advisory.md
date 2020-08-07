@@ -3,6 +3,9 @@ title: COVID-19 Advisories
 permalink: /resources/Advisories/
 ---
 
+### COVID-19: Guidelines on 7th Lunar Month Activities issued on 7 August 2020
+* Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/aug/7th-month-advisory) to view.
+* Click [here](/media/Guidelinesfor7thlunarmonthactivities.pdf) for PDF.
 
 ### COVID-19: Advisory on Resumption of More Religious Activities in Phase Two updated on 2 August 2020
 This advisory has been updated to reflect the easing of restrictions on weddings, funerals and wakes as announced by Ministry of Health on 30 July 2020

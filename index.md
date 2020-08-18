@@ -15,7 +15,7 @@ sections:
               url: /cpro/about-cpro/
             - title: COVID-19
               description: Forms, Advisories and Resources
-              url: /resources/Resumption-of-Religious-Activities/
+              url: /resources/Advisories/
             - title: Media Centre
               description: News
               url: /media-centre/

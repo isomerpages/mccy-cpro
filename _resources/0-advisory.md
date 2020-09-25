@@ -9,10 +9,6 @@ This advisory has been updated to reflect the higher limits for digital producti
 * Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase2updatedon18Aug.pdf) for PDF.
 * Click [here](/resources/faq/) for FAQs for Phase Two.
 
-### COVID-19: Guidelines on 7th Lunar Month Activities issued on 7 August 2020
-* Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/aug/7th-month-advisory) to view.
-* Click [here](/media/Guidelinesfor7thlunarmonthactivities.pdf) for PDF.
-
 ### COVID-19: Advisory on Gradual Resumption of Religious Activities issued on 25 May 2020, 1600hrs
 
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/gradual-resumption-of-religious-activities) to view.

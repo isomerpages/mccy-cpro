@@ -83,4 +83,4 @@ permalink: /resources/FAQ/
 **17. Do ROs need to submit SMPs before proceeding with 100-persons worship services?**
   * ROs that wish to conduct 100-persons services will be required to submit an updated SMP with the additional SMMs at least three days before commencing.
   * This includes ROs that have previously submitted their Phase Two SMPs.
-  * More information will be available on www.cpro.gov.sg. 
+  * More information will be available on www.cpro.gov.sg

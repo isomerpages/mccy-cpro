@@ -47,7 +47,8 @@ permalink: /resources/FAQ/
   * We hope to gradually raise the congregation limit beyond 100 persons, if COVID-19 community transmission remains low and stable, and places of worship are able to implement the safe management measures.  
 
 **9. When will there be an increase in worship services from 100 to 200 persons?**
-  * MCCY hopes to gradually raise the congregation limit beyond 100 persons, if COVID-19 community transmission remains low and stable, and places of worship are able to implement the safe management measures.   * With effect from 3 Oct 2020, the maximum number of worshippers allowed for worship services is 100.
+  * MCCY hopes to gradually raise the congregation limit beyond 100 persons, if COVID-19 community transmission remains low and stable, and places of worship are able to implement the safe management measures.   
+  * With effect from 3 Oct 2020, the maximum number of worshippers allowed for worship services is 100.
 
 **10. Can I have more than one group of 5 in a religious class, in the same room?**
   * Yes. Where necessary, there can be multiple groups of 5, so long as each group is separated by at least 1 metre with no mingling across groups. The total number of persons must not exceed 50 (including the religious worker / teacher  (and supporting workers, if any)
@@ -82,4 +83,4 @@ permalink: /resources/FAQ/
 **17. Do ROs need to submit SMPs before proceeding with 100-persons worship services?**
   * ROs that wish to conduct 100-persons services will be required to submit an updated SMP with the additional SMMs at least three days before commencing.
   * This includes ROs that have previously submitted their Phase Two SMPs.
-  * More information will be available on www.cpro.gov.sg. 
+  * More information will be available on www.cpro.gov.sg

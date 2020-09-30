@@ -9,6 +9,7 @@ In Phase Two, places of worship can gradually resume more religious activities, 
 
 ### Revised Safe Management Measures Checklist
 ROs must submit a revised checklist of Safe Management Measures (SMMs) for the increase in limit for congregational and other worship services at least 3 days before commencing. This includes ROs that have submitted their Safe Management Plan (SMP) in Phase One and/or Two. 
+
 Click **[here](https://www.form.gov.sg/5f6c373499f4f10011facb66)** to submit. ROs can take reference from the sample [SMMs](/resources/resources/).
  
 ROs that would like to amend their submitted SMP or have further queries may email to [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg).

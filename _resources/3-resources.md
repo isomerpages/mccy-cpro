@@ -2,6 +2,10 @@
 title: Resources
 permalink: /resources/resources/
 ---
+### Sample Safe Management Plan Requirements
+
+Religious Organisations may take reference from the sample Safe Management Measures to develop their Safe Management Plans. Click [here](/media/SampleSMMsforResumptionofReligiousActivitiesPhase2Advisory100Pax.pdf) to download.
+
 
 ### Useful infographics on COVID-19
 

@@ -30,7 +30,8 @@ permalink: /resources/FAQ/
   * From 3 October 2020: 
     * ROs can conduct congregational and other worship services for up to 100 persons, while adhering to the required SMMs (including zoning for congregational worship).
     * ROs may also concurrently conduct other permitted religious activities for up to a total of 100 persons on the premises, and only if these activities can be conducted safely at separate locations within the place of worship. 
-    * Specific limits on certain activities (e.g. 30 persons for funerals and wakes, 50 persons for religious classes) continue to apply. 
+     * For example, ROs can hold religious class for 50 persons, and two separate religious rites for 25 persons each at the same time.
+    * Specific limits on certain activities (e.g. 30 persons for funerals and wakes, 50 persons for religious classes) will continue to apply. 
     * There must be sufficient signs and directions to guide the different parties such that they do not interact or meet with parties from other zones while entering, exiting, or while in the premises. 
   * While the attendance limits for worship services and other religious activities has been raised, MCCY continues to urge ROs to minimise the number of physical gatherings and the number of people on-site. 
 
@@ -40,7 +41,7 @@ permalink: /resources/FAQ/
 **7. Can I have multiple worship services (e.g. different language services) at the same time? How many persons are allowed at each service?**
   * Yes, multiple services are allowed if they can be conducted safely at separate locations within the place of worship, with adequate signs and directions to guide the different congregations such that they do not interact or meet each other while entering, exiting or while in the premises. 
   * ROs must work within the total cap of 100 persons (with effect 3 Oct 2020) for these worship services. 
-    * For example: if there are two concurrent worship services, each can be allocated a limit of 50 persons.
+    * For example, if there are two concurrent worship services, each can be allocated a limit of 50 persons.
 
 **8. My premises are very large with multiple prayer halls. Can I have multiples of 100 persons for worship services?**
   * No. The limit of 100 persons for worship services (with effect 3 Oct 2020) applies to all places of worship, regardless of the premise size. This is to manage the risks of conducting worship services at a larger scale and to allow the places of worship to implement their safe management measures.
@@ -54,6 +55,7 @@ permalink: /resources/FAQ/
   * Yes. Where necessary, there can be multiple groups of 5, so long as each group is separated by at least 1 metre with no mingling across groups. The total number of persons must not exceed 50 (including the religious worker / teacher  (and supporting workers, if any)
   * As a best practice, we encourage a greater separation of 2 metres between groups of students attending religious classes.
   * ROs must keep within the premise limit of 100 persons (with effect 3 Oct 2020) for religious classes and other permitted religious activities (excluding congregational and other worship services). 
+    * For example, ROs can have two separate religious classes comprising 50 persons each at the same time.
 
 **11. How many religious workers, staff and volunteers are we allowed to deploy on-site for worship services? Will this count towards the cap of 50 persons for worship services?**
   * Places of worship may deploy the required manpower to facilitate worship services and other permitted religious activities. The manpower must be limited to essential tasks, kept to a minimum number and adhere to safe management measures. 

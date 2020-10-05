@@ -9,7 +9,7 @@ permalink: /resources/Advisories/
 ### COVID-19: Advisory on Resumption of More Religious Activities in Phase Two updated on 30 September 2020
 This advisory has been updated to reflect the higher limits for worship services and solemnizations as announced by the Multi-Ministry Taskforce on 23 Sep 2020.
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/sep/resumption-of-more-religious-activities-in-phase-two) to view.
-* Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase2updated30Sep.pdf) for PDF.
+* Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase218Junupdatedv3.pdf) for PDF.
 * Click [here](/resources/faq/) for FAQs for Phase Two.
 
 ### COVID-19: Advisory on Gradual Resumption of Religious Activities issued on 25 May 2020, 1600hrs

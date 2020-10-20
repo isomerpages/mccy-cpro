@@ -80,9 +80,14 @@ permalink: /resources/FAQ/
 
 **16. Can I provide food to my devotees as part of worship services?**
   * No. Food should not be served to worshippers before, during or after each worship service. 
-  * Services should be kept short as possible, with no mingling of worshippers. Worshippers should also leave the premises immediately after performing their worship. 
+  * Services should be kept short as possible, with no mingling of worshippers. Worshippers should also leave the premises immediately after performing their worship.
   
-**17. Do ROs need to submit SMPs before proceeding with 100-persons worship services?**
+**17. ROs can have up to 30 persons on-location for recording and broadcast of religious services and prayers, of which up to 10 persons can be unmasked at any one time. Can I be unmasked if I am playing a string instrument (e.g. guitar)?**
+  * While up to 10 persons can be unmasked at any one time, they should only do so when necessary (e.g. for playing of wind or brass intruments or other instruments that require intentional expulsion of air). 
+  * Where there is "live" singing, no more than 5 persons present may be unmasked at any one time.
+    * For example, there can only be 5 unmasked singers, 1 masked pianist and 1 masked guitarist during the recording and broadcast session. No other persons are allowed to unmask, and no masked singing is allowed.
+  
+**18. Do ROs need to submit SMPs before proceeding with 100-persons worship services?**
   * ROs that wish to conduct 100-persons services will be required to submit an updated SMP with the additional SMMs at least three days before commencing.
   * This includes ROs that have previously submitted their Phase Two SMPs.
   * More information will be available on www.cpro.gov.sg

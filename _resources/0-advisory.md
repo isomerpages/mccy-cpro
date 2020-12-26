@@ -3,6 +3,11 @@ title: COVID-19 Advisories
 permalink: /resources/Advisories/
 ---
 
+### COVID-19: Advisory on Moving Into Phase Three of Re-Opening for Religious Activities Issued on 26 December 2020
+
+* Click [here](/media/MovingintoPhaseThreeofReOpeningforReligiousActivities26Dec2020.pdf) for PDF.
+* Click [here](/resources/faq/) for FAQs for Phase Three.
+
 ### COVID-19: Advisory on Resumption of More Religious Activities in Phase Two updated on 30 September 2020
 This advisory has been updated to reflect the higher limits for worship services and solemnizations as announced by the Multi-Ministry Taskforce on 23 Sep 2020.
 * Click [here](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/sep/resumption-of-more-religious-activities-in-phase-two) to view.

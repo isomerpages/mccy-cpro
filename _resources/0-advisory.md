@@ -3,7 +3,7 @@ title: COVID-19 Advisories
 permalink: /resources/Advisories/
 ---
 
-### COVID-19: Advisory on Moving Into Phase Three of Re-Opening for Religious Activities Issued on 26 December 2020
+### COVID-19: Advisory on Moving Into Phase Three of Re-Opening for Religious Activities issued on 26 December 2020
 
 * Click [here](/media/MovingintoPhaseThreeofReOpeningforReligiousActivities26Dec2020.pdf) for PDF.
 * Click [here](/resources/faq/) for FAQs for Phase Three.

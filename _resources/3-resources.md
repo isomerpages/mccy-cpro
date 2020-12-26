@@ -2,20 +2,20 @@
 title: Resources
 permalink: /resources/resources/
 ---
-### Sample Safe Management Plan Requirements
+### Safe Management Measures
 
-Religious Organisations may take reference from the sample Safe Management Measures to develop their Safe Management Plans. Click [here](/media/SampleSMMsforResumptionofReligiousActivitiesPhase2Advisory100Pax.pdf) to download.
+Religious Organisations may refer to the required Safe Management Measures to develop their plan. Click [here](/media/ResumptionofReligiousActivitiesPhase3Advisoryv1.pdf) to download.
 
 
 ### Useful infographics on COVID-19
 
 We have prepared some useful infographics that you may wish to display or share with your congregants.
 
-**Phase One: Safe Re-Opening - Gradual Resumption of Religious Activities** 
+**Phase Three: Safe Re-Opening - Gradual Resumption of Religious Activities** 
 
-[<img src="/media/Phase1thumbnail.JPG" width="200"/>](/media/Phase1thumbnail.JPG)
+[<img src="/media/PhaseThreeInfographics.jpg" width="200"/>](/media/PhaseThreeInfographics.jpg)
 
-* Click [here](/media/Phase1hi-res.pdf) to download.
+* Click [here](/media/PhaseThreeInfographics.jpg) to download.
 
 
 **A Guide to Religious Activities** 

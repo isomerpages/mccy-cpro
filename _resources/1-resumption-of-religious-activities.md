@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Resumption of More Religious Activities (Phase Three)
-In Phase Three, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see MCCY's [Advisory on Moving into Phase Three of Re-Opening for Religious Activities](/media/MovingintoPhaseThreeofReOpeningforReligiousActivities26Dec2020.pdf) issued on 26 December 2020 for more detailed guidance. Following the Multi-Ministry Taskforce’s announcement on 14 December 2020 of an increase in capacity limits for worship services, this advisory has been updated to reflect the increase in limit for congregational and other worship services and increase in cap for non-congregational religious activities for all Religious Organisations (ROs).
+
 
 
 ### Revised Safe Management Measures Checklist

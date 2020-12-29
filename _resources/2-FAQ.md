@@ -43,7 +43,7 @@ permalink: /resources/FAQ/
   
   [1] Refer to: https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/Guidelines-for-volunteer-management-during-covid19-pandemic-28dec2020
 
-**8. My premises are very large with multiple prayer halls. Can I have multiples of 100 persons for worship services?**
+**8. I am conducting religious classes. Can I have multiple groups of 8 in the same room?**
   * Yes, with effect from 28 Dec 2020, there can be multiple groups of 8 (so long as each group is separated by at least 1 metre with no mingling across groups. Each religious class must not exceed 50 persons (including the religious worker / teacher[2] and supporting workers, if any).
   * As a best practice, we encourage a greater separation of 2 metres between groups of students attending religious classes.
   * With effect from 28 Dec 2020, ROs must keep within the premise limit of 150 persons (for religious classes and other permitted religious activities excluding congregational and other worship services).

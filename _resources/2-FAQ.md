@@ -41,7 +41,7 @@ permalink: /resources/FAQ/
   * The cap of 250 persons (with effect from 28 Dec 2020) for worship services excludes the manpower deployed for this purpose.
   * Places of worship can refer to MCCY’s volunteer management guide for best practices for managing volunteers[1].
   
-  [1] Refer to: https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/jun/Guidelines-for-volunteer-management-during-covid19-pandemic-2
+  [1] Refer to: https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/Guidelines-for-volunteer-management-during-covid19-pandemic-28dec2020
 
 **8. My premises are very large with multiple prayer halls. Can I have multiples of 100 persons for worship services?**
   * Yes, with effect from 28 Dec 2020, there can be multiple groups of 8 (so long as each group is separated by at least 1 metre with no mingling across groups. Each religious class must not exceed 50 persons (including the religious worker / teacher[2] and supporting workers, if any).

@@ -24,7 +24,7 @@ permalink: /resources/FAQ/
   * No. Worshippers must keep to the prevailing group size limits, i.e. 8 persons (an increase from 5 persons today) from 28 Dec 2020.
     * To reduce the likelihood of spread, we should continue to limit our social circle to a small group of regular contacts.
   * Groups of worshippers must be 1 metre apart, and there must be no mixing between groups. 
-  * Religious Organisations (ROs) should ensure that worshippers keep to their natural groupings (e.g. family members, friends) and not place worshippers who do not know each other in a group.
+  * Religious Organisations (ROs) should endeavour that worshippers keep to their natural groupings (e.g. family members, friends) and not place worshippers who do not know each other in a group.
 
 **4. My premises are very large with multiple prayer halls. Can I have multiples of 250 persons for worship services in Phase Three?**
   * No. The limit of 250 persons for worship services (with effect from 28 Dec 2020) applies to all places of worship, regardless of the premise size. This is to manage the risks of conducting worship services at a larger scale and to allow ROs to gain familiarity in implementing the requisite safe management measures.

@@ -13,9 +13,9 @@ We have prepared some useful infographics that you may wish to display or share 
 
 **Phase Three: Safe Re-Opening - Gradual Resumption of Religious Activities** 
 
-[<img src="/media/PhaseThreeInfographics.jpg" width="200"/>](/media/PhaseThreeInfographics.jpg)
+[<img src="/media/InfographicsPhase3Reopening05012021.jpg" width="200"/>](/media/InfographicsPhase3Reopening05012021.jpg)
 
-* Click [here](/media/PhaseThreeInfographics.jpg) to download.
+* Click [here](/media/InfographicsPhase3Reopening05012021.jpg) to download.
 
 
 **A Guide to Religious Activities** 

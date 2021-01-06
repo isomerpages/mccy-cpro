@@ -5,7 +5,7 @@ permalink: /resources/FAQ/
 
 ### Frequently Asked Questions (Phase Three)
 
-**Capcaity Limits**
+**Capacity Limits**
 
 **1. What is the safe capacity limit for a place of worship at any one time?**
   * From 28 December 2020:

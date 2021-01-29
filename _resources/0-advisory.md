@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Advisories
+title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
 

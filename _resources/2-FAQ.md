@@ -80,7 +80,6 @@ permalink: /resources/FAQ/
 
 **14. Can the worship leader be unmasked for preaching in the worship service?**
   * Persons can be unmasked (and not require face shields) for speaking only for the duration of the congregational and other worship services, and religious rites as part of the permissible number of unmasked persons.
-  * Persons unmasked for speaking must maintain at least 1 metre from any other individual. Those who are unmasked for singing and/or the playing of wind/brass instruments must maintain at least 2 metres safe distance from other individuals.
 
 **15. Can a religious worker make house visits to conduct prayers?**
   * Religious workers who need to make a house visit should abide by the prevailing restrictions on household visitors, where visits are limited to 8 visitors (with effect from 28 Dec 2020) at a time. 

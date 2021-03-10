@@ -17,6 +17,13 @@ We have prepared some useful infographics that you may wish to display or share 
 
 * Click [here](/media/PhaseThreeInfographics.jpg) to download.
 
+**QingMing Festival 2021**
+
+[<img src="/media/QingMing_English_Infographics_2021.jpg" width="200"/>](/media/QingMing_English_Infographics_2021.jpg)
+
+* Click [here](/media/QingMing_English_Infographics_2021.jpg) to download in English.
+* Click [here](/media/QingMing_Chinese_Infographics_2021.jpg) to download in Chinese.
+
 
 **A Guide to Religious Activities** 
 

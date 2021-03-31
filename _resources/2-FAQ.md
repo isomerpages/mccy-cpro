@@ -11,7 +11,7 @@ permalink: /resources/FAQ/
   * From 28 December 2020:
     * ROs can conduct congregational and other worship services for up to 250 persons (in zones of up to 50 persons each) subject to safe management measures and the safe capacity of the premises.
     * ROs may also concurrently conduct other permitted religious activities up to a total of 150 persons on-site, and only if these activities can be conducted safely at separate locations within the place of worship.
-      * Specific limits on certain activities (e.g. 30 persons for funerals and wakes, 50 persons for religious classes, 100 persons for marriage solemnizations) will continue to apply.
+    * From 24 Apr 2021, up to 250 attendees will be permitted for marriage solemnizations (if the wedding couple undergoes PET). If this cap of 250 persons for marriage solmenizations is fully utilised, no other concurrent non-congregational religious activity is allowed.
     * There must be sufficient signs and directions to guide the different parties such that they do not interact or meet with parties from other zones while entering, exiting, or while in the premises. 
   * While the capacity limits for worship services and other permitted religious activities has been raised, ROs are encouraged to reduce the number of concurrent physical gatherings and the number of people on-site. 
 

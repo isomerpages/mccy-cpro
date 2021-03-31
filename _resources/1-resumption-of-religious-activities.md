@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Resumption of More Religious Activities (Phase Three)
-In Phase Three, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see ['Moving into Phase Three of Re-Opening for Religious Activities' document](xx) updated on 31 March 2021 for more detailed guidance. This has been updated to reflect the ease in restrictions on masked singing, weddings and wakes/funerals.
+In Phase Three, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see ['Moving into Phase Three of Re-Opening for Religious Activities' document](/media/MovingIntoPhaseThreeofReOpeningforReligiousActivities26Dec2020updatedMar2021(31032021).pdf) updated on 31 March 2021 for more detailed guidance. This has been updated to reflect the ease in restrictions on masked singing, weddings and wakes/funerals.
 
 ### Revised Safe Management Measures Checklist
 For ROs who have submitted their SMPs in Phase 3 and wish to conduct masked singing and marriage solemnizations for up to 250 persons or wakes/funerals for up to 50 persons. You must submit an acknowledgement [here](https://www.form.gov.sg/6063eabc083c37001263c597) which confirms that you have read, understood and will implement the required safe management measures before proceeding with the permitted religious activities. 

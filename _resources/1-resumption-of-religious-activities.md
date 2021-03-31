@@ -4,6 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
 ### Resumption of More Religious Activities (Phase Three)
+
 In Phase Three, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see ['Moving into Phase Three of Re-Opening for Religious Activities' document](/media/MovingIntoPhaseThreeofReOpeningforReligiousActivities26Dec2020updatedMar2021(31032021).pdf) updated on 31 March 2021 for more detailed guidance. This has been updated to reflect the ease in restrictions on masked singing, weddings and wakes/funerals.
 
 ### Revised Safe Management Measures Checklist

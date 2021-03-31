@@ -4,8 +4,7 @@ permalink: /resources/resources/
 ---
 ### Safe Management Measures
 
-Religious Organisations may refer to the required Safe Management Measures to develop their plan. Click [here](/media/ResumptionofReligiousActivitiesPhase3Advisoryv3(004).pdf) to download.
-
+Religious Organisations may refer to the required Safe Management Measures to develop their plan. Click [here](/media/ResumptionOfReligiousActivitiesPhase3Advisoryv3(004)updated31Mar.pdf) to download.
 
 ### Useful infographics on COVID-19
 

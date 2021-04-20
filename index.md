@@ -4,7 +4,7 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
-notification: Religious Organisations must submit the revised Checklist of Safe Management Measures for the increase in limit for congregational and other worship services at least 3 days before commencing. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit.
+notification: Religious Organisations must submit an acknowledgement form before commencing activites with further allowances in Phase 3. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit.
 sections:
     - hero:
         title: Crisis Preparedness for Religious Organisations

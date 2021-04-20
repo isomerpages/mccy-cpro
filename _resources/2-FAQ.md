@@ -5,13 +5,13 @@ permalink: /resources/FAQ/
 
 ### Frequently Asked Questions (Phase Three)
 
-**Capcaity Limits**
+**Capacity Limits**
 
 **1. What is the safe capacity limit for a place of worship at any one time?**
   * From 28 December 2020:
     * ROs can conduct congregational and other worship services for up to 250 persons (in zones of up to 50 persons each) subject to safe management measures and the safe capacity of the premises.
     * ROs may also concurrently conduct other permitted religious activities up to a total of 150 persons on-site, and only if these activities can be conducted safely at separate locations within the place of worship.
-      * Specific limits on certain activities (e.g. 30 persons for funerals and wakes, 50 persons for religious classes, 100 persons for marriage solemnizations) will continue to apply.
+    * From 24 Apr 2021, up to 250 attendees will be permitted for marriage solemnizations (if the wedding couple undergoes PET). If this cap of 250 persons for marriage solmenizations is fully utilised, no other concurrent non-congregational religious activity is allowed.
     * There must be sufficient signs and directions to guide the different parties such that they do not interact or meet with parties from other zones while entering, exiting, or while in the premises. 
   * While the capacity limits for worship services and other permitted religious activities has been raised, ROs are encouraged to reduce the number of concurrent physical gatherings and the number of people on-site. 
 
@@ -24,7 +24,7 @@ permalink: /resources/FAQ/
   * No. Worshippers must keep to the prevailing group size limits, i.e. 8 persons (an increase from 5 persons today) from 28 Dec 2020.
     * To reduce the likelihood of spread, we should continue to limit our social circle to a small group of regular contacts.
   * Groups of worshippers must be 1 metre apart, and there must be no mixing between groups. 
-  * Religious Organisations (ROs) should ensure that worshippers keep to their natural groupings (e.g. family members, friends) and not place worshippers who do not know each other in a group.
+  * Religious Organisations (ROs) should endeavour that worshippers keep to their natural groupings (e.g. family members, friends) and not place worshippers who do not know each other in a group.
 
 **4. My premises are very large with multiple prayer halls. Can I have multiples of 250 persons for worship services in Phase Three?**
   * No. The limit of 250 persons for worship services (with effect from 28 Dec 2020) applies to all places of worship, regardless of the premise size. This is to manage the risks of conducting worship services at a larger scale and to allow ROs to gain familiarity in implementing the requisite safe management measures.
@@ -41,9 +41,9 @@ permalink: /resources/FAQ/
   * The cap of 250 persons (with effect from 28 Dec 2020) for worship services excludes the manpower deployed for this purpose.
   * Places of worship can refer to MCCY’s volunteer management guide for best practices for managing volunteers[1].
   
-  [1] Refer to: https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/jun/Guidelines-for-volunteer-management-during-covid19-pandemic-2
+  [1] Refer to: https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/Guidelines-for-volunteer-management-during-covid19-pandemic-28dec2020
 
-**8. My premises are very large with multiple prayer halls. Can I have multiples of 100 persons for worship services?**
+**8. I am conducting religious classes. Can I have multiple groups of 8 in the same room?**
   * Yes, with effect from 28 Dec 2020, there can be multiple groups of 8 (so long as each group is separated by at least 1 metre with no mingling across groups. Each religious class must not exceed 50 persons (including the religious worker / teacher[2] and supporting workers, if any).
   * As a best practice, we encourage a greater separation of 2 metres between groups of students attending religious classes.
   * With effect from 28 Dec 2020, ROs must keep within the premise limit of 150 persons (for religious classes and other permitted religious activities excluding congregational and other worship services).

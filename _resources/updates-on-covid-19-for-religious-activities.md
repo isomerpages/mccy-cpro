@@ -3,6 +3,11 @@ title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
 
+### COVID-19: Phase Three - Heightened Alert Enhanced Precautionary Measures for Religious Activities Issued on 5 May 2021
+
+* Click [here](/media/PhaseThreeEnhancedMeasuresReligiousActivities5May2021finalfinal.pdf) for PDF.
+* Click [here](/resources/faq/) for FAQs for Phase Three.
+
 ### COVID-19: Moving Into Phase Three of Re-Opening for Religious Activities issued on 31 March 2021
 
 * Click [here](/media/MovingIntoPhaseThreeofReOpeningforReligiousActivities26Dec2020updatedMar2021(31032021).pdf) for PDF.

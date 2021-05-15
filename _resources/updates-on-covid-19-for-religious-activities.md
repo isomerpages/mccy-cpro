@@ -3,6 +3,10 @@ title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
 
+### COVID-19: Phase Two (Heightened Alert) Tighter Measures for Religious Activities issued on 15 May 2021
+
+* Click [here](/media/PhaseTwoHA_EnhancedMeasures_ReligiousActivities_15May2021.pdf) for PDF.
+
 ### COVID-19: Moving Into Phase Three of Re-Opening for Religious Activities issued on 31 March 2021
 
 * Click [here](/media/MovingIntoPhaseThreeofReOpeningforReligiousActivities26Dec2020updatedMar2021(31032021).pdf) for PDF.

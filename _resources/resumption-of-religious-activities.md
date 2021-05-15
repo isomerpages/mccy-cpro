@@ -3,13 +3,20 @@ title: Resumption of Religious Activities
 permalink: /resources/Resumption-of-Religious-Activities/
 ---
 
-### Resumption of More Religious Activities (Phase Three)
+### Tighter Measures for Religious Activities (Phase Two - Heightened Alert)
 
-In Phase Three, places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see ['Moving into Phase Three of Re-Opening for Religious Activities' document](/media/MovingIntoPhaseThreeofReOpeningforReligiousActivities26Dec2020updatedMar2021(31032021).pdf) updated on 31 March 2021 for more detailed guidance. This has been updated to reflect the ease in restrictions on masked singing, weddings and wakes/funerals.
+In Phase Two (Heightened Alert), places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see [‘Phase Two (Heightened Alert) Tighter Measures for Religious Activities’ document](/media/PhaseTwoHA_EnhancedMeasures_ReligiousActivities_15May2021.pdf) in Phase Two updated on 15 May 2021 for more detailed guidance. This has been updated to reflect the new conditions for religious activities imposed from 16 May to 13 June 2021
+
+### Recording and Broadcast of Religious Services and Prayers
+ROs who wish to use their premise for recording and broadcast of religious services and prayers from 16 May to 13 June 2021 must notify CPRO Programme Office via **[https://form.gov.sg/xxxx](https://form.gov.sg/xxxxx)** at least 2 days before conducting the digital productions
+
+### Revised Safe Management Measures Checklist 
+ROs that have submitted their SMPs in Phase 3 must acknowledge the new conditions for religious activities imposed from 16 May to 13 June 2021 before commencing the activities. Submit the acknowledgement form [here](https://go.gov.sg/phase2ackformha).
+
+ROs that have not submitted their Safe Management Plans (SMPs) previously for Phase 3 will need to submit their plans, at least 2 days before commencing any activities outlined above. This includes ROs that have submitted their Safe Management Plans in Phase 1 and/or 2. Click [here](https://go.gov.sg/phase2smpha) to submit. 
+
 
 ### Revised Safe Management Measures Checklist
-For ROs who have submitted their SMPs in Phase 3 and wish to conduct masked singing and marriage solemnizations for up to 250 persons or wakes/funerals for up to 50 persons. You must submit an acknowledgement [here](https://www.form.gov.sg/6063eabc083c37001263c597) which confirms that you have read, understood and will implement the required safe management measures before proceeding with the permitted religious activities. 
-
-Religious Organisations must submit a revised checklist of Safe Management Measures (SMMs) for the increase in limit for congregational and other worship services at least 3 days before commencing. This includes ROs that have submitted their Safe Management Plans (SMPs) in Phase One and/or Two. Click **[here](https://www.form.gov.sg/6063f1b607c75900113025da)** to submit. ROs can take reference on the required safe management measures [SMMs](/resources/resources/).
+For ROs who have submitted their SMPs in Phase 3 and wish to conduct masked singing and marriage solemnizations for up to 250 persons or wakes/funerals for up to 50 persons. You must submit an acknowledgement [here](https://www.form.gov.sg/6063eabc083c37001263c597) which confirms that you have read, understood and will implement the required safe management measures before proceeding with the permitted religious activities.
  
 ROs that would like to amend their submitted SMP or have further queries may email to [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg).

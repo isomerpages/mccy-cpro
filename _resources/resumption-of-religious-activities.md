@@ -5,7 +5,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 
 ### Tighter Measures for Religious Activities (Phase Two - Heightened Alert)
 
-In Phase Two (Heightened Alert), places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see [‘Phase Two (Heightened Alert) Tighter Measures for Religious Activities’ document](/media/PhaseTwoHA_EnhancedMeasures_ReligiousActivities_15May2021.pdf) in Phase Two updated on 15 May 2021 for more detailed guidance. This has been updated to reflect the new conditions for religious activities imposed from 16 May to 13 June 2021
+In Phase Two (Heightened Alert), places of worship can gradually resume more religious activities, with the necessary precautions to safeguard public health. Please see [‘Phase Two (Heightened Alert) Tighter Measures for Religious Activities’ document](/media/PhaseTwoHA_EnhancedMeasures_ReligiousActivities_15May2021_0910.pdf) in Phase Two updated on 15 May 2021 for more detailed guidance. This has been updated to reflect the new conditions for religious activities imposed from 16 May to 13 June 2021
 
 ### Recording and Broadcast of Religious Services and Prayers
 ROs who wish to use their premise for recording and broadcast of religious services and prayers from 16 May to 13 June 2021 must notify CPRO Programme Office via **[https://form.gov.sg/notificationform](https://form.gov.sg/notificationform)** at least 2 days before conducting the digital productions

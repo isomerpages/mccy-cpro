@@ -4,7 +4,7 @@ permalink: /resources/resources/
 ---
 ### Safe Management Measures
 
-Safe Management Measures for Phase Two Heightened Alert will be updated soon.
+Safe Management Measures for Phase Three Heightened Alert will be updated soon.
 
 ### Useful infographics on COVID-19
 

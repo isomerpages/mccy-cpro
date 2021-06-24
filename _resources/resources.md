@@ -4,7 +4,7 @@ permalink: /resources/resources/
 ---
 ### Safe Management Measures
 
-Click [here](/media/MCCYPhaseThreeHeightenedAlertReligiousActivities14June.pdf) for Safe Management Measures for Phase Three Heightened Alert.
+Click [here](/media/MCCYPhaseThreeHeightenedAlertReligiousActivities14JuneUpdatePDFver.pdf) for Safe Management Measures for Phase Three Heightened Alert.
 
 ### Useful infographics on COVID-19
 

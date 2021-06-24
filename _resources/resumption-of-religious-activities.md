@@ -11,12 +11,6 @@ In Phase Three (Heightened Alert), places of worship can gradually resume more r
 
 ROs that have submitted their SMPs in Phase 3 must acknowledge the new conditions for religious activities updated on 18 June 2021 before commencing the activities. Submit the acknowledgement form **[here](https://go.gov.sg/phase3ackformha)**. ROs who had acknowledged the conditions before 18 June 2021 should **re-acknowledge the new conditions**.
 
-### Recording and Broadcast of Religious Services and Prayers
-
-ROs who wish to use their premise for recording and broadcast of religious services and prayers must notify CPRO Programme Office via **[https://go.gov.sg/notificationform](https://go.gov.sg/notificationform)** at least 2 days before conducting the digital productions. 
-
-From 21 June, ROs do not need to notify CPRO before proceeding with these productions.
-
 ### Revised Safe Management Measures Checklist 
 
 ROs that have not submitted their Safe Management Plans (SMPs) previously for Phase 3 will need to submit their plans, at least 2 days before commencing any activities outlined above. This includes ROs that have submitted their Safe Management Plans in Phase 1 and/or 2. Click **[here](https://go.gov.sg/phase3smpha)** to submit. 

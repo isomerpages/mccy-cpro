@@ -9,4 +9,6 @@ In Phase Three (Heightened Alert), places of worship can gradually resume more r
 
 ### Revised Safe Management Measures Checklist
 
+ROs which have not acknowledged  the updated conditions imposed on 14 June 2021 must do so at https://go.gov.sg/phase3ackformha before commencing the activities.
+
 ROs that have not submitted their Safe Management Plans (SMPs) previously for Phase 3 will need to submit their plans, **at least 2 days** before commencing any activities outlined above. This includes ROs that have submitted their Safe Management Plans in Phase 1 and/or 2. Click **[here](https://go.gov.sg/phase3smpha)** to submit.

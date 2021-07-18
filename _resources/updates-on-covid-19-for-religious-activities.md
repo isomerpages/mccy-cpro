@@ -3,7 +3,13 @@ title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
 
+
+### COVID-19: Phase Three (Heightened Alert) Precautionary Measures for Religious Activities updated on 18 July 2021
+
+* Click [here](/media/PhaseThree_PrecautionaryMeasures_ReligiousActivities_18July2021.pdf) for PDF.
+
 ### COVID-19: Phase Three (Heightened Alert) Precautionary Measures for Religious Activities updated on 7 July 2021
+
 * Click [here](/media/PhaseThree_PrecautionaryMeasures_ReligiousActivities_7July2021(final).pdf) for PDF.
 
 ### COVID-19: Phase Three (Heightened Alert) Precautionary Measures for Religious Activities updated on 18 June 2021

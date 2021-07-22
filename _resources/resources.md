@@ -2,13 +2,14 @@
 title: Resources
 permalink: /resources/resources/
 ---
-### Safe Management Measures
-
-Click [here](/media/MCCYPhaseThreeHeightenedAlertReligiousActivities14JuneUpdatePDFver.pdf) for Safe Management Measures for Phase Three Heightened Alert.
 
 ### Useful infographics on COVID-19
 
 We have prepared some useful infographics that you may wish to display or share with your congregants.
+
+**Reduced Capacity at Congregational Worship Services - Phase 2 (Heightened Alert), 22 July - 18 August 2021**
+
+[<img src="/images/Resources_Community_Worship_Services_2021_P2HA.png" width="200"/>](/images/Resources_Community_Worship_Services_2021_P2HA.png)
 
 **Phase Three: Safe Re-Opening - Gradual Resumption of Religious Activities** 
 

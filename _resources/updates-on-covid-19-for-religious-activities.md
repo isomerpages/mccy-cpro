@@ -5,7 +5,7 @@ permalink: /resources/Advisories/
 
 ### COVID-19: Phase Two (Heightened Alert) Updated Measures for Religious Activities updated on 10 August 2021
 
-* Click [here](/media/PhaseTwo_EnhancedMeasures_ReligiousActivities_10Aug2021(final)v1.2(clean).pdf) for PDF
+* Click [here](/media/PhaseTwo_EnhancedMeasures_ReligiousActivities_10Aug2021(final)v1.2(clean)(1).pdf) for PDF.
 
 ### COVID-19: Phase Two (Heightened Alert) Updated Measures for Religious Activities issued on 7 August 2021
 

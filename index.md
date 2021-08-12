@@ -5,7 +5,7 @@ description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
 
-notification: Religious Organisations must acknowledge the new conditions for religious activities updated on 7 August 2021 before commencing the activities. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit the acknowledgement form.
+notification: Religious Organisations must acknowledge the new conditions for religious activities updated on 10 August 2021 before commencing the activities. Click <a target="_blank" href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a> to submit the acknowledgement form.
 
 sections:
     - hero:

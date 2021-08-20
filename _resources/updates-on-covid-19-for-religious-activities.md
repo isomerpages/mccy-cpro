@@ -13,11 +13,7 @@ permalink: /resources/Advisories/
 
 ### COVID-19: Phase Two (Heightened Alert) Updated Measures for Religious Activities updated on 10 August 2021
 
-* Click [here](/media/PhaseTwo_EnhancedMeasures_ReligiousActivities_10Aug21.pdf) for PDF.
-
-### COVID-19 Guidelines for 7th Lunar Month Prayers and Activities 2021 issued on 30 July 2021
-
-* Click [here](/media/Guidelinesfor7thLunarMonthPrayersandActivities2021.pdf) for PDF.
+* Click [here](/media/UpdatedGuidelinesfor7thLunarMonthPrayersandActivities2021(16Aug21).pdf) for PDF.
 
 ### COVID-19: Phase Two (Heightened Alert) Tighter Measures for Religious Activities issued on 20 July 2021
 

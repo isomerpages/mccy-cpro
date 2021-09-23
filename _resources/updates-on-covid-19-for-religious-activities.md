@@ -69,5 +69,6 @@ This advisory has been updated to reflect the higher limits for worship services
 * Click [here](/media/1-COVID-19MCCYAdvisoryonReligiousActivities.pdf) for PDF.
 
 
+
 **To view more COVID-19 advisories, please click [here](https://www.gov.sg/article/covid-19-sector-specific-advisories)**
 

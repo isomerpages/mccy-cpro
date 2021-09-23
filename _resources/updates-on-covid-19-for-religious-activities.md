@@ -70,3 +70,4 @@ This advisory has been updated to reflect the higher limits for worship services
 
 
 **To view more COVID-19 advisories, please click [here](https://www.gov.sg/article/covid-19-sector-specific-advisories)**
+

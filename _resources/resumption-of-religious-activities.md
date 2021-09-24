@@ -18,3 +18,4 @@ ROs who wish to use their premise for recording and broadcast of religious servi
 ### Revised Safe Management Measures Checklist 
 
 ROs that have not submitted their Safe Management Plans (SMPs) previously for Phase 3 will need to submit their plans, at least 2 days before commencing any activities outlined above. This includes ROs that have submitted their Safe Management Plans in Phase 1 and/or 2. Click **[here](https://go.gov.sg/phase3smpha)** to submit.
+

@@ -2,7 +2,6 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
-
 ### COVID-19 Guidelines for Phase Two (Heightened Alert) Tighter Measures for Religious Activities updated on 25 September 2021
 
 * Click [here](/media/PhaseTwo_TighterMeasures_ReligiousActivities_25Sep2021.pdf) for PDF.
@@ -73,6 +72,4 @@ This advisory has been updated to reflect the higher limits for worship services
 * Click [here](/media/1-COVID-19MCCYAdvisoryonReligiousActivities.pdf) for PDF.
 
 
-
 **To view more COVID-19 advisories, please click [here](https://www.gov.sg/article/covid-19-sector-specific-advisories)**
-

@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 ### Phase Two (Heightened Alert) Tighter Measures for Religious Activities from 27 September 2021 to 24 October 2021
 
-Under Phase Two (Heightened Alert), from 27 September 2021 to 24 October 2021, tighter measures will apply to religious activities to reduce risks of community transmission.  During this stabilisation period in Phase Two (Heightened Alert), we have updated the current safe management measures (SMMs). Please see ['Phase Two (Heightened Alert) Tighter Measures for Religious Activities'](PhaseTwoTighterMeasuresReligiousActivities25Sep2021.pdf) document issued on 25 September 2021 for more detailed guidance. 
+Under Phase Two (Heightened Alert), from 27 September 2021 to 24 October 2021, tighter measures will apply to religious activities to reduce risks of community transmission.  During this stabilisation period in Phase Two (Heightened Alert), we have updated the current safe management measures (SMMs). Please see ['Phase Two (Heightened Alert) Tighter Measures for Religious Activities'](/files/PhaseTwoTighterMeasuresReligiousActivities25Sep2021.pdf) document issued on 25 September 2021 for more detailed guidance. 
 
 ### Acknowledgement Form for Updated Measures for Phase Two – Heightened Alert
 

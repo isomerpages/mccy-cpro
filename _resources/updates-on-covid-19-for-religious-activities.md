@@ -2,7 +2,6 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
-
 ### COVID-19 Guidelines for Phase Two (Heightened Alert) Tighter Measures for Religious Activities updated on 25 September 2021
 
 * Click [here](/media/PhaseTwo_TighterMeasures_ReligiousActivities_25Sep2021.pdf) for PDF.

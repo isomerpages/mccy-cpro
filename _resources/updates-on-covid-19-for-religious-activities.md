@@ -4,7 +4,7 @@ permalink: /resources/Advisories/
 ---
 ### COVID-19 Guidelines for Phase Two (Heightened Alert) Tighter Measures for Religious Activities issued on 25 September 2021
 
-* Click [here](/file/PhaseTwoTighterMeasuresReligiousActivities25Sep2021.pdf) for PDF.
+* Click [here](/files/PhaseTwoTighterMeasuresReligiousActivities25Sep2021.pdf) for PDF.
 
 ### COVID-19 Guidelines for Nine Emperor Gods Festival 2021 issued on 23 September 2021.
 

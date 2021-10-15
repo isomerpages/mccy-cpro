@@ -63,7 +63,7 @@ ensure that the Supervisor has satisfied the training requirements set out under
 * if the test result is “AG-”, ROs are to upload the test result of that Worker **no later than 24 hours** after the ESSS for that specific Worker is completed; and
 * the requirements set out under paragraphs 4 and 6 of Annex A.
  
-19.  More details on the registration for an SRS account can be found [here] (SRS guide).  
+19.  More details on the registration for an SRS account can be found [here](/files/SRSguide.pdf).  
  
 #### Support for ROs conducting ESSS
  
@@ -82,6 +82,13 @@ ensure that the Supervisor has satisfied the training requirements set out under
 25. For more clarifications on the FET regime for ROs, contact CPRO via cpro@mccy.gov.sg 
 
 
+##### Annexes
+
+* Annex A - [FET Test Results and the Management of Workers after ESSS](/files/AnnexA-FETTestResultsandtheManagementofWorkersafterESSS%20.pdf)
+* Annex B - [CERTIFICATION OF MEDICAL INELIGIBILITY FOR mRNA COVID-19 VACCINES](/files/AnnexB.pdf)
+
+
+##### Footnotes
 
 (1) ROs are reminded to comply with the other requirements imposed under the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 and implement the [Safe Management Measures (“**SMMs**”)](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures) as set out on the [COVID Gobusiness website](https://www.gobusiness.gov.sg/covid/). They are also reminded to comply with the relevant [SMMs](https://www.enterprisesg.gov.sg/covid-19/safe-distance/#FB) that have been set out by Enterprise Singapore (ESG), Housing & Development Board (HDB), Singapore Food Agency (SFA), Sport Singapore (SportSG), National Environment Agency (NEA), Ministry of Home Affairs (MHA), Singapore Tourism Board (STB) and Urban Redevelopment Authority (URA).
 

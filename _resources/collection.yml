@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - FET for ROs.md
       - updates-on-covid-19-for-religious-activities.md
       - resumption-of-religious-activities.md
+      - FET for ROs.md
       - frequently-asked-questions.md
       - resources.md
       - community-initiatives.md

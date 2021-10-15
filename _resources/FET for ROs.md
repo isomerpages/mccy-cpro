@@ -30,9 +30,9 @@ permalink: /resources/fet-for-ros
  
 #### Requirements for Religious Organisations conducting ESSS
  
-11. ESSS involves Workers using an ART kit and performing a swab on themselves under the supervision of a trained supervisor (“**Supervisor**”). The swabbing and supervision can be done either at the workplace or virtually using tools such as video conferencing.  
- 
-[Mandatory] To satisfy the FET Requirement, ROs conducting ESSS for their Workers shall:
+11. ESSS involves Workers using an ART kit and performing a swab on themselves under the supervision of a trained supervisor (“**Supervisor**”). The swabbing and supervision can be done either at the workplace or virtually using tools such as video conferencing.
+
+12. [Mandatory] To satisfy the FET Requirement, ROs conducting ESSS for their Workers shall:
 * i. Appoint an adequate number of Supervisors to supervise every Worker whenever they carry out the swabs on themselves;
 ensure that the Supervisor has satisfied the training requirements set out under paragraph 14 below and properly performs his supervisory role (5);
 * ii. ensure that Workers comply with the steps set out in paragraph 16 and properly perform the swabs on themselves;

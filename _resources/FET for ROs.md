@@ -24,7 +24,7 @@ permalink: /resources/fet-for-ros
  
 8) [Mandatory] After their Workers undergo FET, ROs shall verify (4)  Worker’s test results.
  
-9) Where the Worker has obtained an “AG+” test result, ROs are strongly recommended to guide the Worker to abide by the prevailing management postures for such cases that are set out on MOH’s website at https://www.moh.gov.sg/ or at the following [link](/files/AnnexA-FETTestResultsandtheManagementofWorkersafterESSS%20.pdf).
+9) Where the Worker has obtained an “AG+” test result, ROs are strongly recommended to guide the Worker to abide by the prevailing management postures for such cases that are set out on MOH’s website at [https://www.moh.gov.sg/](https://www.moh.gov.sg) or at the following [link](/files/AnnexA-FETTestResultsandtheManagementofWorkersafterESSS%20.pdf).
  
 10) To meet the FET Requirement, ROs are to conduct **Employer-Supervised Self-Swab (“ESSS”)** for their Workers. The costs for the ART test kits that will be used for ESSS and the training required for ROs that wish to conduct ESSS will be borne by the Government until 31 December 2021.
  
@@ -37,17 +37,17 @@ permalink: /resources/fet-for-ros
 ensure that the Supervisor has satisfied the training requirements set out under paragraph 14 below and properly performs his supervisory role (5);
 * ii. ensure that Workers comply with the steps set out in paragraph 16 and properly perform the swabs on themselves;
 * iii. ensure that the test results obtained by Workers from ESSS are uploaded on the Swab Registration System (“**SRS**”) in accordance with the requirements set out under paragraph 17 below; and
-* iv. ensure that the ART test kits used for ESSS are those that are set out on the Health Sciences Authority’s website at https://www.hsa.gov.sg/consumer-safety/articles/covid19_ARTselftests 
+* iv. ensure that the ART test kits used for ESSS are those that are set out on the Health Sciences Authority’s website at [https://www.hsa.gov.sg/consumer-safety/articles/covid19_ARTselftests](https://www.hsa.gov.sg/consumer-safety/articles/covid19_ARTselftests ) 
 
-13)  Where the Workers have obtained an “AG+” test result while conducting ESSS, ROs are recommended to strongly encourage them to undertake a follow-up ART test and to abide by the prevailing management postures for such cases that are set out on MOH’s website at https://www.moh.gov.sg/. The follow-up ART test does not need to be carried out under supervision and the results do not need to be uploaded to SRS. ROs are to use self-sourced ART test kits for the follow-up ART test and not those that have been supplied by the Government under the FET regime.
+13)  Where the Workers have obtained an “AG+” test result while conducting ESSS, ROs are recommended to strongly encourage them to undertake a follow-up ART test and to abide by the prevailing management postures for such cases that are set out on MOH’s website at [https://www.moh.gov.sg/](https://www.moh.gov.sg/). The follow-up ART test does not need to be carried out under supervision and the results do not need to be uploaded to SRS. ROs are to use self-sourced ART test kits for the follow-up ART test and not those that have been supplied by the Government under the FET regime.
  
 #### Training for Supervisors
  
 14)  [Mandatory] ROs conducting ESSS shall ensure that their Supervisors have attended the 4-hour virtual Supervisory Training in ART Self-Swab that is conducted by the Ministry of Health’s (“**MOH**”) appointed training provider, HMI Institute of Health Sciences Pte. Ltd. (“**HMI**”) before they perform their supervisory role. If a Supervisor is above 50-years-old, ROs must ensure that he or she is fully vaccinated against COVID-19 (i.e. they received two doses of the COVID-19 vaccination under Singapore’s national vaccination programme and 14 days have passed from the time of the second dose(6) before they can perform any supervisory role.
  
-15)  ROs conducting ESSS are advised to nominate at least two Workers per outlet to undergo training to be a Supervisor. The training provided by HMI will equip Supervisors with the knowledge needed to supervise the conduct of ESSS and a certificate of attendance will be issued to those who have completed it. The training provided by HMI is carried out daily from (a) 8am to 12pm, (b) 2pm to 6pm and (c) 6pm to 10pm on a first-come-first-served basis. Enterprises are advised to book their training slot directly with HMI at https://hmi-ihs.com/supervisory-training-in-art-self-swab/ and to do so as soon as possible.
+15)  ROs conducting ESSS are advised to nominate at least two Workers per outlet to undergo training to be a Supervisor. The training provided by HMI will equip Supervisors with the knowledge needed to supervise the conduct of ESSS and a certificate of attendance will be issued to those who have completed it. The training provided by HMI is carried out daily from (a) 8am to 12pm, (b) 2pm to 6pm and (c) 6pm to 10pm on a first-come-first-served basis. Enterprises are advised to book their training slot directly with HMI at [https://hmi-ihs.com/supervisory-training-in-art-self-swab/](https://hmi-ihs.com/supervisory-training-in-art-self-swab/) and to do so as soon as possible.
  
-16)  Upon successful booking, HMI will send a web link for supervisors 1-2 days before the actual training day, to attend the virtual training session. Please visit HMI’s website at https://hmi-ihs.com (refer to “COVID-19 Training”) for latest details on the ESSS training.
+16)  Upon successful booking, HMI will send a web link for supervisors 1-2 days before the actual training day, to attend the virtual training session. Please visit HMI’s website at [https://hmi-ihs.com](https://hmi-ihs.com) (refer to “COVID-19 Training”) for latest details on the ESSS training.
  
 #### Conduct of ESSS by Workers
 

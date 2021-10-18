@@ -4,7 +4,7 @@ permalink: /resources/Advisories/
 ---
 ### COVID-19 Guidelines for Phase Two (Heightened Alert) Tighter Measures for Religious Activities updated on 18 October 2021
 
-* Click [here](/files/PhaseTwoTMRA_18Oct2021.pdf) for PDF.
+* Click [here](/files/PhaseTwoTMRA_18Oct2021_clean2.pdf) for PDF.
 
 ### COVID-19 Guidelines for Phase Two (Heightened Alert) Tighter Measures for Religious Activities issued on 25 September 2021
 

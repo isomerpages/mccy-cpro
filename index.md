@@ -9,7 +9,7 @@ notification: Religious Organisations must acknowledge the new conditions for
   activities. Click <a target="_blank"
   href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a>
   to submit the acknowledgement form. Click <a
-  target="_blank"href="https://www/cpro.gov.sg/resources/fet-for-ros/">here<a/a>
+  target="_blank"href="https://www/cpro.gov.sg/resources/fet-for-ros">here<a/a>
   for FET requirements for ROs.
 sections:
   - hero:

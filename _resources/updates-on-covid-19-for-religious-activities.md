@@ -10,10 +10,6 @@ permalink: /resources/Advisories/
 
 * Click [here](/files/P2HA25Sep2021.pdf) for PDF.
 
-### COVID-19 Guidelines for Nine Emperor Gods Festival 2021 issued on 23 September 2021.
-
-* Click [here](/media/Guidelines-for-Nine-Emperor-Gods-Festival-2021.pdf) for PDF.
-
 ### COVID-19: Phase Two (Heightened Alert) Updated Measures for Religious Activities updated on 18 August 2021
 
 * Click [here](/media/PhaseTwo_EnhancedMeasures_ReligiousActivities_17Aug2021_v5.pdf) for PDF.

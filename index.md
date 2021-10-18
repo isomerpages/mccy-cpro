@@ -4,12 +4,8 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
-notification: Religious Organisations must acknowledge the new conditions for
-  religious activities updated on 18 October 2021 before commencing the
-  activities. Click <a target="_blank"
-  href="https://www.cpro.gov.sg/resources/Resumption-of-Religious-Activities/">here</a>
-  to submit the acknowledgement form. Click <a
-  target="_blank"href="https://www/cpro.gov.sg/resources/fet-for-ros">here<a/a>
+notification: Click <a
+  target="_blank"href="https://www.cpro.gov.sg/resources/fet-for-ros">here<a/a>
   for FET requirements for ROs.
 sections:
   - hero:

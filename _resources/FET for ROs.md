@@ -6,7 +6,7 @@ permalink: /resources/fet-for-ros
 
 1) Since late-June 2021, the Fast and East Testing (“**FET**”) regime has been progressively rolled out for all higher risk sectors. With effect from **25 October 2021**, the FET will be rolled out for all Religious Organisations (RO) **conducting in-person religious classes for children aged 12 and below**. ROs must comply with the mandatory requirements set out in this updated notice. For avoidance of doubt, the mandatory requirements are specified in the paragraphs below prefaced with the words ‘[Mandatory]’.
  
-2) ROs are to also comply with the latest guidelines for resumption of religious activities issued on 18 October 2021 [here](/files/PhaseTwoTMRA_18Oct2021_clean2.pdf).
+2) ROs are to also comply with the latest guidelines for resumption of religious activities issued on 25 October 2021 [here](/files/PhaseTwoTMRA_25Oct2021_Clean.pdf).
  
 #### Background
  

@@ -10,18 +10,18 @@ permalink: /resources/FAQ/
 
 **A. General Queries on FET**
 
-1.	Who will have to undergo the mandatory Fast & Easy Testing (FET)?  
+Q1.	Who will have to undergo the mandatory Fast & Easy Testing (FET)?  
 
 From 25 October 2021, FET would be mandatory for all religious and supporting workers conducting in-person religious classes for children aged 12 and below. 
 
 This includes full and part-time employees such as full-time office assistants, religious workers, volunteers, and cleaners.
 
-2.	How often will I need to be tested under the FET? 
+Q2.	How often will I need to be tested under the FET? 
 
 From 25 October 2021 onwards, workers on the mandatory FET regime must do their testing once a week (every 7 days), regardless of vaccination status.
 
 
-3.	If I am fully vaccinated, do I still need to undergo the FET?
+Q3.	If I am fully vaccinated, do I still need to undergo the FET?
 
 All workers in the fields highlighted in Q1, regardless of vaccination status, will need to undergo the mandatory FET testing.
 

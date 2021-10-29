@@ -10,33 +10,33 @@ permalink: /resources/FAQ/
 
 **A. General Queries on FET**
 
-Q1.	Who will have to undergo the mandatory Fast & Easy Testing (FET)?  
+[1]	Who will have to undergo the mandatory Fast & Easy Testing (FET)?  
 
 From 25 October 2021, FET would be mandatory for all religious and supporting workers conducting in-person religious classes for children aged 12 and below. 
 
 This includes full and part-time employees such as full-time office assistants, religious workers, volunteers, and cleaners.
 
-Q2.	How often will I need to be tested under the FET? 
+[2]	How often will I need to be tested under the FET? 
 
 From 25 October 2021 onwards, workers on the mandatory FET regime must do their testing once a week (every 7 days), regardless of vaccination status.
 
 
-Q3.	If I am fully vaccinated, do I still need to undergo the FET?
+[3]	If I am fully vaccinated, do I still need to undergo the FET?
 
 All workers in the fields highlighted in Q1, regardless of vaccination status, will need to undergo the mandatory FET testing.
 
-4.	If one is medically ineligible to be vaccinated, what is the testing regime to adhere to?
+[4]	If one is medically ineligible to be vaccinated, what is the testing regime to adhere to?
 
 All workers in higher-risk settings (see Q1) will need to undergo testing twice a week under the Vaccinate or Regular Test (VoRT) regime if they are unvaccinated (inclusive of one test per week for FET). This is regardless of their medical eligibility for vaccination.
 
 
-5.	If I am medically eligible but yet to be fully vaccinated, what is the testing regime to adhere to?
+[5]	If I am medically eligible but yet to be fully vaccinated, what is the testing regime to adhere to?
 
 All workers in higher-risk settings (see Q1) will need to undergo testing twice a week under the Vaccinate or Regular Test (VoRT) regime if they are unvaccinated (inclusive of one test per week for FET). This is regardless of their medical eligibility for vaccination.
 
 If your vaccination status changes to “Fully Vaccinated” after 25 October, and you can stop undergoing VoRT, please write in to CPRO@mccy.gov.sg to deregister yourself from the VoRT database.
 
-6.	What happens if the FET mandatory testing is not adhered to?  
+[6]	What happens if the FET mandatory testing is not adhered to?  
 
 Please note that this FET regime is being imposed under the COVID-19 (Temporary Measures) (Control Order) Regulations. Failure to comply with the requirements set out herein may result in prosecution and/or other enforcement action, including suspension/closure of operations(1).
 

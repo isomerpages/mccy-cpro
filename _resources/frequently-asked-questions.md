@@ -214,18 +214,10 @@ Currently, religious rites that involve children are not required to have the wo
 
 **E. Steps for ROs - Getting on Board ESSS**
 
-Click here for guide.
+Click [here](/files/GettingOnBoardESSSforROs.pdf) for guide.
 
 
 Footnotes:
 
 (1) Religious Organisations (ROs) must comply with the COVID-19 (Temporary Measures) (Control Order) Regulations and implement Safe Management Measures (SMMs), as set out on the COVID GoBusiness website. They are also required to comply with the latest SMMs set out by the National Arts Council.
-(2) This includes both full and part time employees such as full-time office assistants and part-time instructors. Also includes contractors, subcontractors, employees of contractors and subcontractors who work at the workplace (e.g. cleaners) as well as business owners such as sole proprietors and partners. 
-
-
-
-
-
-
-
-
+(2) This includes both full and part time employees such as full-time office assistants and part-time instructors. Also includes contractors, subcontractors, employees of contractors and subcontractors who work at the workplace (e.g. cleaners) as well as business owners such as sole proprietors and partners.

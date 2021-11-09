@@ -2,7 +2,7 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
-### COVID-19 Guidelines for Phase Two (Heightened Alert) Stabilisation Period - Easing Measures for Religious Activities - updated on 9 November 2021
+### COVID-19 Guidelines for Phase Two (Heightened Alert) Stabilisation Period Easing Measures for Religious Activities updated on 9 November 2021
 
 * Click [here](/files/PhaseTwoTMRA_10Nov2021_FINAL.pdf) for PDF.
 

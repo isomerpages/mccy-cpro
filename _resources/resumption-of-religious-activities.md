@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 ### Phase Two (Heightened Alert) Stabilisation Period - Easing Measures for Religious Activities updated on 9 November 2021
 
-Under Phase Two (Heightened Alert), from 10 November 2021, updated measures will apply to religious activities to reduce risks of community transmission.  During this stabilisation period in Phase Two (Heightened Alert), we have updated the current safe management measures (SMMs). Please see ['Phase Two (Heightened Alert) Stabilisation Period - Easing Measures for Religious Activities](/files/PhaseTwoTMRA_10Nov2021_FINAL.pdf) document issued on 8 November 2021 for more detailed guidance. 
+Under Phase Two (Heightened Alert), from 10 November 2021, updated measures will apply to religious activities to reduce risks of community transmission.  During this stabilisation period in Phase Two (Heightened Alert), we have updated the current safe management measures (SMMs). Please see ['Phase Two (Heightened Alert) Stabilisation Period - Easing Measures for Religious Activities](/files/PhaseTwoTMRA_10Nov2021_FINAL.pdf) document issued on 9 November 2021 for more detailed guidance. 
 
 ### Acknowledgement Form for Updated Measures for Phase Two – Heightened Alert
 

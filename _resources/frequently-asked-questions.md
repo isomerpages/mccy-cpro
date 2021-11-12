@@ -4,7 +4,7 @@ permalink: /resources/FAQ/
 ---
 ### Frequently Asked Questions 
 
-[Last updated on 29 October 2021]
+[Last updated on 12 November 2021]
 
 **Fast and Easy Testing (FET) and VoRT Regime for Religious Organisations (ROs)**
 
@@ -12,9 +12,9 @@ permalink: /resources/FAQ/
 
 Q1.	Who will have to undergo the mandatory Fast & Easy Testing (FET)?  
 
-From 25 October 2021, FET would be mandatory for all religious and supporting workers conducting in-person religious classes for children aged 12 and below. 
+From 25 October 2021, FET would be mandatory for religious and supporting workers conducting in-person religious classes for children aged 12 and below. This applies to persons who are involved for more than once a month. This includes full and part-time employees such as full-time office assistants, religious workers, volunteers, and cleaners.
 
-This includes full and part-time employees such as full-time office assistants, religious workers, volunteers, and cleaners.
+Persons who are involved for only once a month can be exempted from FET.
 
 Q2.	How often will I need to be tested under the FET? 
 
@@ -142,7 +142,9 @@ Please check with the cleaning company regarding the FET status of the cleaners 
 
 Q21.	The workers in my RO are all part-timers and are often on rotation and some not teaching for periods of time.  Do they need to do testing if they are not in current rotation, or aren't teaching for the time being? 
 
-Yes, all workers, including part-timers, must undergo FET training regularly even if they do not come into contact with children 12 years and below often.
+Workers, including part-timers who are involved in religious classes for children 12 years and below for more than once a month will be required to test regularly. 
+
+Otherwise, they can be exempted from FET if they are involved only a once a month. 
 
 
 Q22.	Some of our workers are volunteers and they serve several other companies apart from our RO. Do we include their test results similarly with our other employees?
@@ -165,7 +167,7 @@ Under the COVID-19 (Temporary Measures) (Control Order) Regulations, the FET reg
 
 Q25.	If I am not conducting classes this month, do I need to undergo FET?
 
-You are encouraged to remain on the FET regime even if you are not conducting classes temporarily and continue with weekly testing. This will allow you to be ready to conduct classes when able to resume.  
+Although not mandatory, you are encouraged to remain on the FET regime even if you are not conducting classes temporarily and continue with weekly testing. This will allow you to be ready to conduct classes when able to resume.  
 
 
 Q26.	If I am discontinuing all my in-person classes and only conducting online classes, do I still have to undergo FET?

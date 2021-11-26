@@ -26,7 +26,7 @@ permalink: /resources/fet-for-ros
  
 9) Where the Worker has obtained an “AG+” test result, ROs are strongly recommended to guide the Worker to abide by the prevailing management postures for such cases that are set out on MOH’s website at [https://www.moh.gov.sg/](https://www.moh.gov.sg) or at the following [link](/files/AnnexA-FETTestResultsandtheManagementofWorkersafterESSS%20.pdf).
  
-10) To meet the FET Requirement, ROs are to conduct **Employer-Supervised Self-Swab (“ESSS”)** for their Workers. The costs for the ART test kits that will be used for ESSS and the training required for ROs that wish to conduct ESSS will be borne by the Government until 31 December 2021.
+10) To meet the FET Requirement, ROs are to conduct **Employer-Supervised Self-Swab (“ESSS”)** for their Workers. The costs for the ART test kits that will be used for ESSS will be borne by the Government until 31 December 2021.
  
 #### Requirements for Religious Organisations conducting ESSS
  

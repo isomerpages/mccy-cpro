@@ -26,7 +26,7 @@ permalink: /resources/fet-for-ros
  
 9) Where the Worker has obtained an “AG+” test result, ROs are strongly recommended to guide the Worker to abide by the prevailing management postures for such cases that are set out on MOH’s website at [https://www.moh.gov.sg/](https://www.moh.gov.sg) or at the following [link](/files/AnnexA-FETTestResultsandtheManagementofWorkersafterESSS%20.pdf).
  
-10) To meet the FET Requirement, ROs are to conduct **Employer-Supervised Self-Swab (“ESSS”)** for their Workers. The costs for the ART test kits that will be used for ESSS will be borne by the Government until 31 December 2021.
+10) To meet the FET Requirement, ROs are to conduct **Employer-Supervised Self-Swab (“ESSS”)** for their Workers. The costs for the ART test kits that will be used for ESSS will be borne by the Government until 31 March 2022.
  
 #### Requirements for Religious Organisations conducting ESSS
  
@@ -59,7 +59,7 @@ ensure that the Supervisor properly performs his supervisory role (6);
  
 #### Support for ROs conducting ESSS
  
-17)  The Government will be supplying ART test kits to ROs until 31 December 2021. To place an order for the ART test kits, ROs are required to submit the relevant information using this [form](https://go.gov.sg/fetvortros). ROs that operate across multiple premises (e.g. branches and locations) should submit a separate “Order form” for each premises.(9) The ART test kits will be delivered to ROs on first-come-first-served basis. **ROs shall only use the ART test kits that are supplied by the Government for ESSS and shall not distribute, supply or sell them to any third-party.** ART Test Kits must be used with prudence and companies need to ensure that one employee only use one test kit for one cycle of RRT, unless the test result is AG invalid. 
+17)  The Government will be supplying ART test kits to ROs until 31 March 2022. To place an order for the ART test kits, ROs are required to submit the relevant information using this [form](https://go.gov.sg/fetvortros). ROs that operate across multiple premises (e.g. branches and locations) should submit a separate “Order form” for each premises.(9) The ART test kits will be delivered to ROs on first-come-first-served basis. **ROs shall only use the ART test kits that are supplied by the Government for ESSS and shall not distribute, supply or sell them to any third-party.** ART Test Kits must be used with prudence and companies need to ensure that one employee only use one test kit for one cycle of RRT, unless the test result is AG invalid. 
  
 18)  After submission of the “Order form”, a confirmation email and SMS from a third-party vendor will be sent to your POC with the delivery date within a week.
  

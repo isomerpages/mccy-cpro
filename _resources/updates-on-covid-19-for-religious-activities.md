@@ -2,6 +2,11 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
+### COVID-19 Guidelines for Transition Phase for Religious Activities updated on 25 January 2022
+
+* Click [here](/files/UpdatedSMMsforReligiousActivities.pdf) for PDF.
+
+
 ### COVID-19 Guidelines for Transition Phase for Religious Activities updated on 23 November 2021
 
 * Click [here](/files/TransitionPhase_22Nov2021.pdf) for PDF.

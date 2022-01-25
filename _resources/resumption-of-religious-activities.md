@@ -2,14 +2,14 @@
 title: Resumption of Religious Activities
 permalink: /resources/Resumption-of-Religious-Activities/
 ---
-### Transition Phase for Religious Activities updated on 23 November 2021
+### Updated Safe Management Measures for Religious Activities
 
-Under Transition Phase, from 22 November 2021, updated measures will apply to religious activities to reduce risks of community transmission.  During this stabilisation period in Phase Two (Heightened Alert), we have updated the current safe management measures (SMMs). Please see ['Transition Phase for Religious Activities](/files/TransitionPhase_22Nov2021.pdf) document issued on 9 November 2021 for more detailed guidance. 
+From 1 February 2022, Religious Organisations (ROs) must implement Vaccinated-Differentiated Safe Management Measures (VDS) for all congregational and other worship services at places of worship, which can involved up to 1000 worshippers at a time, subject to SMMs and the safe capacity of the premises. Please see [Updated SMMs for Religious Activities](/files/UpdatedSMMsforReligiousActivities.pdf) issued on 25 January 2022 for more detailed guidance. 
 
-### Acknowledgement Form for Updated Measures for Phase Two – Heightened Alert
+### Acknowledgement Form for Updated Safe Management Measures for Religious Activities 
 
-ROs that have submitted their SMPs in Phase 3 must acknowledge the new conditions for religious activities imposed from 27 September 2021 before commencing the activities. Submit the acknowledgement form **[here](https://go.gov.sg/AckFormTOP2HA)**. ROs who had acknowledged the conditions before 27 Septmber 2021 should **re-acknowledge the new conditions**.
+ROs must acknowledge the new conditions for religious activities imposes before commencing the activities. Click [here](https://www.form.gov.sg/#!/61ee53f138bcc90013ae28de) to submit.
 
 ### Revised Safe Management Measures Checklist 
 
-ROs that have not submitted their Safe Management Plans (SMPs) previously for Phase 3 will need to submit their plans, at least 2 days before commencing any activities outlined above. This includes ROs that have submitted their Safe Management Plans in Phase 1 and/or 2. Click **[here](https://go.gov.sg/phase3smpha)** to submit.
+ROs that have not submitted their Safe Management Plans (SMPs) previously for Phase 3 will need to submit their plans, at least 2 days before commencing any activities outlined above. This includes ROs that have submitted their Safe Management Plans in Phase 1 and/or 2. Click [here](https://form.gov.sg/#!/6063f1b607c75900113025da) to submit.

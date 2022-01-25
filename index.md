@@ -5,7 +5,7 @@ description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
 notification: Please click <a
-  target="_blank"href="https://www.cpro.gov.sg/resources/fet-for-ros">here<a/a>
+  target="_blank"href="https://www.cpro.gov.sg/resources/resumption-of-religious-activities/">here<a/a>
   to view the updated Safe Management Measures for Religious Activities.
 sections:
   - hero:

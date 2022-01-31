@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 ### Updated Safe Management Measures for Religious Activities
 
-From 1 February 2022, Religious Organisations (ROs) must implement Vaccinated-Differentiated Safe Management Measures (VDS) for all congregational and other worship services at places of worship, which can involved up to 1000 worshippers at a time, subject to SMMs and the safe capacity of the premises. Please see [Updated SMMs for Religious Activities](/files/UpdatedSMMsforReligiousActivities.pdf) issued on 25 January 2022 for more detailed guidance. 
+From 1 February 2022, Religious Organisations (ROs) must implement Vaccinated-Differentiated Safe Management Measures (VDS) for all congregational and other worship services at places of worship, which can involved up to 1000 worshippers at a time, subject to SMMs and the safe capacity of the premises. Please see [Updated SMMs for Religious Activities](/files/UpdatedSMMsforReligiousActivities31012022.pdf) updated on 31 January 2022 for more detailed guidance. 
 
 ### Acknowledgement Form for Updated Safe Management Measures for Religious Activities 
 

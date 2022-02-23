@@ -4,7 +4,7 @@ permalink: /resources/Resumption-of-Religious-Activities/
 ---
 ### Updated Safe Management Measures for Religious Activities
 
-On 16 February 2022, the Multi-Ministry Taskforce (MTF) announced that Safe Management Measures (SMMs) would be streamlined to a set of five core parameters – group sizes, mask-wearing, workplace requirements, safe distancing and capacity limits. Please see [document](/files/ResettingOurMeasurestoLivewiththeOmicronVariant.pdf) issued on 21 February 2021 for more detailed guidance.
+On 16 February 2022, the Multi-Ministry Taskforce (MTF) announced that Safe Management Measures (SMMs) would be streamlined to a set of five core parameters – group sizes, mask-wearing, workplace requirements, safe distancing and capacity limits. Please see [document](/files/ResettingOurMeasurestoLivewiththeOmicronVariant.pdf) issued on 23 February 2021 for more detailed guidance.
 
 ### Acknowledgement Form for Updated Safe Management Measures for Religious Activities 
 

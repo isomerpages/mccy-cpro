@@ -4,7 +4,7 @@ permalink: /resources/Advisories/
 ---
 ### COVID-19 Guidelines for Resetting Our Measures to Live with the Omicron Variant for Religious Activities updated on 21 February 2022
 
-* Click [here]() for PDF
+* Click [here](/files/ResettingOurMeasurestoLivewiththeOmicronVariant.pdf) for PDF
 
 ### COVID-19 Guidelines for Transition Phase for Religious Activities updated on 31 January 2022
 

@@ -2,9 +2,9 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
-### COVID-19 Guidelines for Resetting Our Measures to Live with the Omicron Variant for Religious Activities updated on 23 February 2022
+### COVID-19 Guidelines for Updated SMMs for Religious Activities updated on 24 February 2022
 
-* Click [here](/files/ResettingOurMeasurestoLivewiththeOmicronVariant.pdf) for PDF
+* Click [here](/files/UpdatedSMMsforReligiousActivities(Updated24Feb2022).pdf) for PDF
 
 ### COVID-19 Guidelines for Transition Phase for Religious Activities updated on 31 January 2022
 

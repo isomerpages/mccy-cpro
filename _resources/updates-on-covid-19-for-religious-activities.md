@@ -2,9 +2,9 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
-### COVID-19 Guidelines for Resuming Our Transition To Resilience For Religious Activities updated on 11 March 2022
+### COVID-19 Guidelines for Resuming Our Transition To Resilience For Religious Activities updated on 12 March 2022
 
-* Click [here](/files/ResumingOurTransitionToResilienceforReligiousActivities.pdf) for PDF
+* Click [here](/files/ResumingOurTransitionToResilienceforReligiousActivitiesFINAL.pdf) for PDF
 
 
 ### COVID-19 Guidelines for Updated SMMs for Religious Activities updated on 24 February 2022

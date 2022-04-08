@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 permalink: /resources/FAQ/
 ---
 ### Frequently Asked Questions 
-Updated on 8 Apr 2022
+Updated 8 Apr 2022
 
 **General Safe Management Measures**
 1. What is the capacity limit for a place of worship at any one time?

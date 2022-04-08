@@ -104,6 +104,4 @@ Live performances external venues will be subject to premises owners’ discreti
 
 For outdoor live performance, the total audience capacity must take into account the safe distance requirements for unmasked audiences (I.e., 1m safe distancing between audiences in group of 10)  
 
-Safe distance of 1m must always be maintained between audiences and unmasked performers.  
-
-
+Safe distance of 1m must always be maintained between audiences and unmasked performers.

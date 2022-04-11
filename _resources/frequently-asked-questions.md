@@ -15,7 +15,7 @@ Worship services and other mask-on religious activities can be held for up to in
 
 2) How is the 75% capacity for >1,000 worshippers calculated? 
 
-75% capacity takes reference from the prevailing maximum occupancy load (m2/person) of the venue, per the fire safety code or fixed seating. The 75% limit will then be applied to this maximum occupancy load. Full fire safety code can be accessed here: https://www.scdf.gov.sg/docs/default-source/scdf-library/fssd-downloads/chapter-1.pdf  
+75% capacity takes reference from the prevailing maximum occupancy load (m2/person) of the venue, per the fire safety code or fixed seating. The 75% limit will then be applied to this maximum occupancy load. Full fire safety code can be accessed [here](https://www.scdf.gov.sg/docs/default-source/scdf-library/fssd-downloads/chapter-1.pdf) 
 
 3) Can I have concurrent worship services and religious rites 
 taking place at the same time (e.g. different language services)?
@@ -25,22 +25,22 @@ Concurrent activities can be held at the same time. Capacity limit for each acti
 4) What are the SMM requirements for Marriage Solemnizations 
 held at Places of Worship?
 
-Please refer to ROM/ROMM’s guidelines and the SMMs for Marriage Solemnizations at: https://www.marriage.gov.sg and  https://www.gobusiness.gov.sg/images/guides/WeddingAdvisoryv2.pdf for FAQs on Marriage Solemnizations. 
+Please refer to ROM/ROMM’s guidelines and the SMMs for Marriage Solemnizations at: [https://www.marriage.gov.sg](https://www.marriage.gov.sg) and [here](https://www.gobusiness.gov.sg/images/guides/WeddingAdvisoryv2.pdf) for FAQs on Marriage Solemnizations. 
 
 5) What are the SMM requirements for funerals held at Places of Worship?
 
-Please refer to SMMs for Funeral Events at: https://www.gobusiness.gov.sg/safemanagement/sector/
+Please refer to SMMs for Funeral Events at: [https://www.gobusiness.gov.sg/safemanagement/sector/](https://www.gobusiness.gov.sg/safemanagement/sector/)
 
 6) Do ROs need to submit SMPs before proceeding with worship services?
 
 ROs are not required to submit SMPs but should acknowledge the 
-SMM requirements via the following link: https://form.gov.sg/623d25f028a55e0012aef93d.
+SMM requirements via the following link: [https://form.gov.sg/623d25f028a55e0012aef93d](https://form.gov.sg/623d25f028a55e0012aef93d).
 
 7) Must I wear a mask at the place of worship, even while praying?
 
 Mask-wearing will continue to be required for indoor settings but will be optional in outdoor settings. Nonetheless, we encourage individuals to wear their masks even when outdoors for personal protection and to protect others, especially in crowded areas.
 
-You can refer to https://www.moh.gov.sg/covid-19/general/faqs---masks-and-personal-protective-equipment-(ppe)#:~:text=a%20work%20cubicle%3F-,A%3A,her%20mask%20in%20the%20room for more details.
+You can refer to [here](https://www.moh.gov.sg/covid-19/general/faqs---masks-and-personal-protective-equipment-(ppe)#:~:text=a%20work%20cubicle%3F-,A%3A,her%20mask%20in%20the%20room) for more details.
 
 8) Can the worship/religious leader be unmasked for speaking duties during worship service?
 
@@ -48,13 +48,13 @@ Persons can be unmasked for speaking only for the duration of their preaching du
 
 9) Are we allowed to conduct AGMs and other social activities at Places of Worship?
 
-AGMs and other social activities can be held at places of worship please refer to MOM’s advisory at https://www.mom.gov.sg/covid-19 for more details.
+AGMs and other social activities can be held at places of worship please refer to MOM’s [advisory](https://www.mom.gov.sg/covid-19) for more details.
 
 10) Is sanitising of the premises after worship services still mandatory?
 
 Although not mandatory, we encourage ROs to continue regular cleaning and ventilating the venue after usage.
 
-ROs are encouraged to apply for the SG Clean Quality Mark, you may refer to the following link: https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/
+ROs are encouraged to apply for the SG Clean Quality Mark, you may refer to the following link: [https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/](https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/)
 
 11) Is ART still a requirement for singers or persons playing wind/brass instruments?
 
@@ -69,7 +69,7 @@ Congregational masked singing is only allowed for worship services and religious
 
 ART testing is no longer required for staff conducting the religious classes. Teachers and volunteers must meet VDS requirements.
 
-You can refer to the SMM requirements for classes at: https://www.moe.gov.sg/faqs-covid-19-infection 
+You can refer to the SMM requirements for classes at: [https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection) 
 
 
 **Consumption of Food & Drinks**

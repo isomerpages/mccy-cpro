@@ -1,14 +1,7 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/CPROlogosmall.jpg
-
 links:
   - title: Contact Us
-    url: /connect/
+    url: /contact-us
   - title: CPRO
     collection: cpro
   - title: COVID-19

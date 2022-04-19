@@ -23,7 +23,7 @@ sections:
           url: /media-centre/
         - title: Connect
           description: Get in touch with us
-          url: /connect/
+          url: /contact-us
   - infobar:
       subtitle: We will continue to work closely with our communities to keep
         Singapore and our people safe. To protect everyone’s well-being, we urge

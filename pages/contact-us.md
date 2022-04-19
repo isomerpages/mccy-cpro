@@ -7,9 +7,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Get in Touch with Crisis Preparedness for Religious Organisations
-          Programme  Please contact us <a
+      - other: Please contact us <a
           href="https://go.gov.sg/contactcpro"><b><u>here</u></b></a> for
           enquiries.
-    title: ""
+    title: Contact Form
 ---

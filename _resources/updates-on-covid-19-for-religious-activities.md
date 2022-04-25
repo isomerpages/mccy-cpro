@@ -2,6 +2,10 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
+### COVID-19 Further Easing of Safe Management Measures for Religious Activities updated on 25 April 2022
+
+* Click [here](/files/FurtherEasingofSMMsforReligiousActivities(25Apr2022).pdf) for PDF.
+
 ### COVID-19 Guidelines for Easing of Safe Management Measures for Religious Activities updated on 26 March 2022
 
 * Click [here](/files/EasingofSMMsforReligiousActivities26Mar2022.pdf) for PDF.

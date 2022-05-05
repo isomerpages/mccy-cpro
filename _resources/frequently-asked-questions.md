@@ -5,7 +5,8 @@ permalink: /resources/FAQ/
 ### Frequently Asked Questions 
 Updated 5 May 2022
 
-General Safe Management Measures
+**General Safe Management Measures**
+
 1) What is the capacity limit for a place of worship at any one time?
 
 From 26 April 2022

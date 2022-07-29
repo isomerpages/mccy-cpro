@@ -1,7 +1,14 @@
 ---
 title: About CPRO
 permalink: /cpro/about-cpro/
+description: CPRO is an initiative under the Ministry of Culture, Community and
+  Youth’s (MCCY) SGSecure Community Network (SGCN) to support ROs to be
+  crisis-ready. CPRO contains crisis related trainings for ROs and COVID-19 Safe
+  Management Measures to be implemented for Religious Activities.
+image: /images/CPROlogosmall.jpg
 ---
+
+
 
 ### About Crisis Preparedness for Religious Organisations (CPRO)
 

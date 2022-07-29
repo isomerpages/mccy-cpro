@@ -2,6 +2,6 @@ collections:
   cpro:
     output: true
     order:
-      - about-cpro.md
+      - About CPRO.md
       - partners-and-programmes.md
       - cpro-self-assessment-checklist.md

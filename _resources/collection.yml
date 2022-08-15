@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - updates-on-covid-19-for-religious-activities.md
-      - resumption-of-religious-activities.md
-      - frequently-asked-questions.md
+      - Resumption of Religious Activities.md
+      - Frequently Asked Questions.md
       - resources.md
       - community-initiatives.md

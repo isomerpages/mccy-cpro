@@ -1,7 +1,12 @@
 ---
 title: Frequently Asked Questions
 permalink: /resources/FAQ/
+description: Frequently asked questions (FAQ) on the latest Safe Management
+  Measures for religious activities
+image: /images/CPROlogosmall.jpg
 ---
+
+
 ### Frequently Asked Questions 
 Updated 5 May 2022
 

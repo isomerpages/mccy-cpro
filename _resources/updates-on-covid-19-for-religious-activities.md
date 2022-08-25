@@ -2,6 +2,10 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
+### COVID-19 Emerging Safer and Stronger Together for Religious Activities issued on 25 August 2022
+
+* Click [here](/files/EmergingSaferandStrongerTogetherforReligiousActivities25Aug2022.pdf) for PDF.
+
 ### COVID-19 Further Easing of Safe Management Measures for Religious Activities updated on 4 May 2022
 
 * Click [here](/files/FurtherEasingofSMMsforReligiousActivities_Updatedon4May2022.pdf) for PDF.

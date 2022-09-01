@@ -5,19 +5,14 @@ description: Frequently asked questions (FAQ) on the latest Safe Management
   Measures for religious activities
 image: /images/CPROlogosmall.jpg
 ---
-
-
 ### Frequently Asked Questions 
-Updated 5 May 2022
+Updated 1 Sep 2022
 
 **General Safe Management Measures**
 
 1) What is the capacity limit for a place of worship at any one time?
 
-From 26 April 2022
-
-The capacity limit of 75% for worship services of more than 1000 persons will be removed.
-Worship services with more than 500 persons are subject to Vaccination-Differentiated SMMs(VDS). For the latest information on VDS, please refer to [https://go.gov.sg/vdsmminfo](https://go.gov.sg/vdsmminfo).
+There are no capacity limits for worship services or activities. ROs will have to adhere to prevailing occupant load requirements under fire safety rules. While capacity limits have been removed, worship services with more than 500 persons are subject to Vaccination Differentiated SMMs (VDS). The latest information on VDS is available ]at: https://go.gov.sg/vdsmminfo](https://go.gov.sg/vdsmminfo).
 
 2) Can I have concurrent worship services and religious rites taking place at the same time (e.g. different language services)?
 

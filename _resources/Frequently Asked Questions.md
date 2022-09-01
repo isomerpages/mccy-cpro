@@ -79,4 +79,4 @@ iii. Auctions at external venues will be subject to premises owners’ discretio
 
 15) Are Live performances allowed for worship services at external premises?
 
-Live performances external venues will be subject to premises owners’ discretion and additional SMMs. All prevailing SMMs for live performances will apply.
+Live performances external venues will be subject to premises owners’ discretion and additional SMMs.

@@ -76,6 +76,6 @@ ii.	Live auctions should be kept to as short a duration as possible. Attendees a
 
 iii. Auctions at external venues will be subject to premises owners’ discretion and additional SMMs.
 
-15) Are Live performances allowed for worship services at external premises?
+13) Are Live performances allowed for worship services at external premises?
 
 Live performances external venues will be subject to premises owners’ discretion and additional SMMs.

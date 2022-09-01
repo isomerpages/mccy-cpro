@@ -12,7 +12,7 @@ Updated 1 Sep 2022
 
 1) What is the capacity limit for a place of worship at any one time?
 
-There are no capacity limits for worship services or activities. ROs will have to adhere to prevailing occupant load requirements under fire safety rules. While capacity limits have been removed, worship services with more than 500 persons are subject to Vaccination Differentiated SMMs (VDS). The latest information on VDS is available ]at: https://go.gov.sg/vdsmminfo](https://go.gov.sg/vdsmminfo).
+There are no capacity limits for worship services or activities. ROs will have to adhere to prevailing occupant load requirements under fire safety rules. While capacity limits have been removed, worship services with more than 500 persons are subject to Vaccination Differentiated SMMs (VDS). The latest information on VDS is available at: https://go.gov.sg/vdsmminfo
 
 2) Can I have concurrent worship services and religious rites taking place at the same time (e.g. different language services)?
 

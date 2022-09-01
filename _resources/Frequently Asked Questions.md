@@ -12,7 +12,7 @@ Updated 1 Sep 2022
 
 1) What is the capacity limit for a place of worship at any one time?
 
-There are no capacity limits for worship services or activities. ROs will have to adhere to prevailing occupant load requirements under fire safety rules. While capacity limits have been removed, worship services with more than 500 persons are subject to Vaccination Differentiated SMMs (VDS). The latest information on VDS is available at: https://go.gov.sg/vdsmminfo
+There are no capacity limits for worship services or activities. ROs will have to adhere to prevailing occupant load requirements under fire safety rules. While capacity limits have been removed, worship services with more than 500 persons are subject to Vaccination Differentiated SMMs (VDS). The latest information on VDS is available at: [https://go.gov.sg/vdsmminfo](https://go.gov.sg/vdsmminfo)
 
 2) Can I have concurrent worship services and religious rites taking place at the same time (e.g. different language services)?
 
@@ -20,13 +20,13 @@ Concurrent activities can be held at the same time.
 
 3) What are the SMM requirements for Marriage Solemnizations held at Places of Worship?
 
-For SMMs on Marriage Solemnizations, please refer to ROM/ROMM's guidelines at: https://www.marriage.gov.sg 
+For SMMs on Marriage Solemnizations, please refer to ROM/ROMM's guidelines at: [https://www.marriage.gov.sg](https://www.marriage.gov.sg)
 
-FAQs on Marriage Solemnizations is available at: https://www.gobusiness.gov.sg/covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions
+FAQs on Marriage Solemnizations is available at: [https://www.gobusiness.gov.sg/covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions](https://www.gobusiness.gov.sg/covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions)
 
 4) What are the SMM requirements for funerals held at Places of Worship?
 
-SMMs for Funeral Events is available at: https://www.gobusiness.gov.sg/safemanagement/sector/
+SMMs for Funeral Events is available at: [https://www.gobusiness.gov.sg/safemanagement/sector/](https://www.gobusiness.gov.sg/safemanagement/sector/)
 
 5) Do ROs need to submit SMPs before proceeding with worship services?
 
@@ -56,7 +56,6 @@ ART is no longer required for personnel involved in live performance. There is n
 
 Singing in religious classes without masks on is permitted. 
 
-
 **Consumption of Food & Drinks**
 
 11) Can food be served at Places of worship?
@@ -67,7 +66,7 @@ From 30 Apr 2022, self-serve buffet lines are permitted subject to the necessary
 
 Participants must remain masked when not eating/drinking.
 
-14) Can Religious Organisations (ROs) organise auctions?
+12) Can Religious Organisations (ROs) organise auctions?
 
 ROs may resume live auctions in places of worship, subject to the prevailing premises capacity limits and the following safe management measures. 
 

@@ -6,6 +6,6 @@ description: Information on the latest advisory for the resumption of religious
   management measures for religious activities.
 image: /images/CPROlogosmall.jpg
 ---
-### Updated Safe Management Measures for Religious Activities
+### Lifting of Vaccination-Differentiated Safe Management Measures for Religious Activities
 
-On 24 August 2022, the Multi-Ministry Taskforce (MTF) announced the further easing of community safe management measures (SMMs) from 29 August 2022. Please see [document](/files/EmergingSaferandStrongerTogetherforReligiousActivities25Aug2022.pdf) issued on 25 August 2022 for more detailed guidance.
+On 7 October 2022, the Multi-Ministry Taskforce (MTF) announced the lifting of Vaccination-Differentiated SMMs from 10 October 2022. Please see [document](/files/VaccinationOurPrimaryDefenceinLivingWithCovid19(10Oct2022).pdf) issued on 10 October 2022 for more detailed guidance.

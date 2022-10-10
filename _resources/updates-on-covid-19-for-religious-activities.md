@@ -2,6 +2,10 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
+### COVID-19 Vaccination Our Primary Defence in Living with COVID-19 issued on 10 October 2022 
+
+* Click [here] (/files/VaccinationOurPrimaryDefenceinLivingWithCovid1910Oct2022.pdf) for PDF.
+
 ### COVID-19 Emerging Safer and Stronger Together for Religious Activities issued on 25 August 2022
 
 * Click [here](/files/EmergingSaferandStrongerTogetherforReligiousActivities25Aug2022.pdf) for PDF.

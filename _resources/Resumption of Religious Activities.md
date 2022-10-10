@@ -8,4 +8,4 @@ image: /images/CPROlogosmall.jpg
 ---
 ### Lifting of Vaccination-Differentiated Safe Management Measures for Religious Activities
 
-On 7 October 2022, the Multi-Ministry Taskforce (MTF) announced the further lifting of Vaccination-Differentiated SMMs from 10 October 2022. Please see [document](/files/VaccinationOurPrimaryDefenceinLivingWithCovid19(10Oct2022).pdf) issued on 10 October 2022 for more detailed guidance.
+On 7 October 2022, the Multi-Ministry Taskforce (MTF) announced the lifting of Vaccination-Differentiated SMMs from 10 October 2022. Please see [document](/files/VaccinationOurPrimaryDefenceinLivingWithCovid19(10Oct2022).pdf) issued on 10 October 2022 for more detailed guidance.

@@ -7,7 +7,7 @@ permalink: /
 notification: 'COVID-19: From 13 Feb 2023, the DORSCON level has been lowered to
   DORSON Green. For more detailed information, please refer to MOH’s <a
   target="_blank"href="https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic">Press
-  Release<a/a> <br> <br> We thank you for your support in our fight against
+  Release</a> <br> <br> We thank you for your support in our fight against
   COVID-19'
 sections:
   - hero:

@@ -4,9 +4,11 @@ title: Crisis Preparedness for Religious Organisations
 description: Crisis Preparedness for Religious Organisation
 image: /images/CPROlogosmall.jpg
 permalink: /
-notification: Please click <a
-  target="_blank"href="https://www.cpro.gov.sg/resources/resumption-of-religious-activities/">here<a/a>
-  to view the updated Safe Management Measures for Religious Activities.
+notification: 'COVID-19: From 13 Feb 2023, the DORSCON level has been lowered to
+  DORSON Green. For more detailed information, please refer to MOH’s Press
+  Release <a
+  target="_blank"href="https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic">.
+  We thank you for your support in our fight against COVID-19.'
 sections:
   - hero:
       title: Crisis Preparedness for Religious Organisations

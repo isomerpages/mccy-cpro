@@ -2,6 +2,10 @@
 title: Updates on Covid-19 for Religious Activities
 permalink: /resources/Advisories/
 ---
+### COVID-19: From 13 February 2023, the DORSCON level has been lowered to DORSCON Green. 
+* For more detailed information, please refer to MOH's Press Release [here](https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic). 
+
+
 ### COVID-19 Vaccination Our Primary Defence in Living with COVID-19 issued on 10 October 2022 
 
 * Click [here](/files/VaccinationOurPrimaryDefenceinLivingWithCovid1910Oct2022.pdf) for PDF.

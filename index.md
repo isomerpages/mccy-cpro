@@ -26,14 +26,9 @@ sections:
           description: Get in touch with us
           url: /contact-us
   - infobar:
-      subtitle: We will continue to work closely with our communities to keep
-        Singapore and our people safe. To protect everyone’s well-being, we urge
-        our congregants to work with their religious leaders in implementing the
-        precautionary measures advised by MOH and MCCY. By supporting each other
-        in these challenging times and exercising social responsibility, we can
-        overcome COVID-19, and emerge even stronger and more resilient. -
-        Statement in support of staying united against COVID-19, National
-        Steering Committee on Racial and Religious Harmony, 25 March 2020
+      description: "Preparing the community for emergencies through crisis
+        preparedness programs, safeguarding safety and fostering resilience
+        during times of crisis. "
   - resources:
       title: Media
       subtitle: Learn more

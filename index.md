@@ -25,10 +25,7 @@ sections:
         - title: Connect
           description: Get in touch with us
           url: /contact-us
-  - infobar:
-      description: "Preparing the community for emergencies through crisis
-        preparedness programs, safeguarding safety and fostering resilience
-        during times of crisis. "
+  - infobar: {}
   - resources:
       title: Media
       subtitle: Learn more

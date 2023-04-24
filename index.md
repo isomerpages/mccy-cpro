@@ -5,8 +5,10 @@ description: Crisis Preparedness for Religious Organisation
 image: /images/isomer-logo.svg
 permalink: /
 notification: 'COVID-19: From 13 Feb 2023, the DORSCON level has been lowered to
-  DORSCON Green. For more detailed information, please refer to MOH’s <a target="_blank" href="https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic">Press Release</a> <br> We thank you for your support in our
-  fight against COVID-19.'
+  DORSCON Green. For more detailed information, please refer to MOH’s <a
+  target="_blank"
+  href="https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic">Press
+  Release</a> <br> We thank you for your support in our fight against COVID-19.'
 sections:
   - hero:
       title: Crisis Preparedness for Religious Organisations

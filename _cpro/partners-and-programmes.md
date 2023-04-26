@@ -2,17 +2,15 @@
 title: Partners and Programmes
 permalink: /cpro/partners/
 ---
-
-
 ### Our Partners
 
 Our partners include the Singapore Police Force, Singapore Civil Defence Force, Temasek Foundation and OnePeople.sg. Through these partnerships, we have developed training programmes in emergency response skills, contingency planning, psychological resilience support and mediation training.
 
 ### Partners and Programmes
 
-**Inter-Racial and Religious Confidence Circles (IRCCs)**
+**Harmony Circle (HC)**
 
-IRCCs are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony. The work of the IRCCs is instrumental in strengthening our social cohesion and supports the SGSecure movement. Click [here](https://www.ircc.sg/) for more information. 
+HCs are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony. The work of the HCs is instrumental in strengthening our social cohesion and supports the SGSecure movement. Click [here](https://www.harmonycircle.sg/) for more information. 
 
 **SGSecure**
 

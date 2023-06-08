@@ -14,7 +14,8 @@ HCs are local-level interfaith platforms in every constituency, formed to promot
 
 **SGSecure**
 <br>
-SGSecure is the national movement to sensitise, train and mobilise Singaporeans in preventing and dealing with a terrorist attack. Click [here](https://www.sgsecure.sg/) for more information. For checklist on contigency 
+SGSecure is the national movement to sensitise, train and mobilise Singaporeans in preventing and dealing with a terrorist attack. Click [here](https://www.sgsecure.sg/) for more information. Click  [here](https://www.sgsecure.gov.sg/docs/default-source/default-document-library/sgsecure-contingency-planning-checklist-for-building-owners-(16-may).pdf?sfvrsn=3cc4a994_0)
+for contingency planning checklist for building owners.
 
 **Singapore Police Force**
 <br>
@@ -24,17 +25,13 @@ The Singapore Police Force administers Safety &amp; Security Watch Group (SSWG) 
 <br>
 The Singapore Civil Defence Force provides training on core lifesaving skills and essential emergency procedures. Click [here](https://www.scdf.gov.sg/home/community-volunteers/community-emergency-preparedness-programme-(cepp)) for more information.
 
-~~**Temasek Foundation**
-
-Temasek Foundation sponsors programmes the Stay Prepared- Business Psychological Resilience Programme (B-PREP) to build psychological resilience capabilities such as administering psychological first aid and mental wellness, and developing psychological resilience plans for your organisation. Click [here](https://www.temasekfoundation-cares.org.sg/page/5/stay-prepared/stay-prepared-programmes?p=7) for more information.~~
-
 
 **Psychological First Aid**
-
+<br>
 Psychological First Aid is a crisis response intervention technique that facilitates recovery, reduces trauma related stress after crisis hits, and ultimately enhances community resilience to crises. 
 
 **OnePeople.sg**
-
+<br>
 OnePeople.sg provides mediation training to community leaders. Click [here](http://www.onepeople.sg/) for more information. 
 
 

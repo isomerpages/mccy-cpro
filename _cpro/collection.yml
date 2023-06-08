@@ -2,7 +2,7 @@ collections:
   cpro:
     output: true
     order:
-      - Contingency Planning Resources.md
       - About CPRO.md
       - partners-and-programmes.md
       - cpro-self-assessment-checklist.md
+      - Contingency Planning Resources.md

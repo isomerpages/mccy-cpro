@@ -11,4 +11,4 @@ image: ""
 ### • [新加坡红十字会为SGSecure推出首个心理急救培训](https://www.zaobao.com.sg/news/singapore/story20230507-1391586)
 
 
-### [• Lebih 1,500 responder akan jalani latihan bantuan kecemasan psikologi bagi hadapi krisis](https://berita.mediacorp.sg/singapura/lebih-1500-responder-akan-jalani-latihan-bantuan-kecemasan-psikologi-bagi-hadapi-krisis-754081)
+### • [ Lebih 1,500 responder akan jalani latihan bantuan kecemasan psikologi bagi hadapi krisis](https://berita.mediacorp.sg/singapura/lebih-1500-responder-akan-jalani-latihan-bantuan-kecemasan-psikologi-bagi-hadapi-krisis-754081)

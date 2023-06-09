@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /resources/FAQ/
+permalink: /resources/faq/
 description: Frequently asked questions (FAQ) on the latest Safe Management
   Measures for religious activities
 image: /images/CPROlogosmall.jpg

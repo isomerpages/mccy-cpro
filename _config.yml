@@ -44,8 +44,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: ""
-staging: https://mccy-cpro-staging.netlify.app
-prod: https://mccy-cpro-prod.netlify.app
+staging: https://staging.d23b37xyinmbuc.amplifyapp.com/
+prod: https://master.d23b37xyinmbuc.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

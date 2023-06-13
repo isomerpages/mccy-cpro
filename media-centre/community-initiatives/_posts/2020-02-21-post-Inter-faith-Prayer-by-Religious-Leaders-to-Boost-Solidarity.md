@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Inter-faith Prayer by Religious Leaders to Boost Solidarity
-permalink: /media-centre/community-initiatives/IRO
+permalink: /media-centre/community-initiatives/iro/
 ---
 
 ### Inter-faith Prayer by Religious Leaders to Boost Solidarity ### 

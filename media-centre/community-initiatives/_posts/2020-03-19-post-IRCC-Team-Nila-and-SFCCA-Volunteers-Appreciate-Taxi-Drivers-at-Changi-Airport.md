@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  IRCC, Team Nila and SFCCA Volunteers Appreciate Taxi Drivers at Changi Airport
-permalink: /media-centre/community-initiatives/Changi
+permalink: /media-centre/community-initiatives/changi/
 ---
 
 ### IRCC, Team Nila and SFCCA Volunteers Appreciate Taxi Drivers at Changi Airport ### 

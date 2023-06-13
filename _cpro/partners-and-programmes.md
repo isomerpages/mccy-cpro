@@ -4,7 +4,7 @@ permalink: /cpro/partners/
 ---
 ### Our Partners
 
-Our partners include the Singapore Police Force, Singapore Civil Defence Force, Temasek Foundation and OnePeople.sg. Through these partnerships, we have developed training programmes in emergency response skills, contingency planning, psychological resilience support and mediation training.
+Our partners include the Singapore Police Force, Singapore Civil Defence Force and OnePeople.sg. Through these partnerships, we have developed training programmes in emergency response skills, contingency planning, psychological resilience support and mediation training.
 
 ### Partners and Programmes
 

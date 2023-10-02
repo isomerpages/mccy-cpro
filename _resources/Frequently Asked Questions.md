@@ -16,7 +16,7 @@ There are no capacity limits for worship services or activities. ROs will have t
 
 2) Are we allowed to conduct AGMs and other social activities at Places of Worship?
 
-AGMs and other social activities can be held at places of worship. For more details, please refer to MOM’s advisory [here]<a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures"></a>.
+AGMs and other social activities can be held at places of worship. For more details, please refer to MOM’s advisory [here](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures).
 
 3) Is sanitising of the premises after worship services still mandatory?
 

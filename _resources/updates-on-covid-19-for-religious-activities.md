@@ -120,7 +120,7 @@ This <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statemen
 
 ### COVID-19: MCCY advisory on religious activities issued on 26 March 2020, 1000hrs
 
-* For more information, please refer to<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/mar/covid-19-mccy-advisory-on-religious-activities">COVID-19: MCCY advisory on religious activities</a>. 
+* For more information, please refer to <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/mar/covid-19-mccy-advisory-on-religious-activities">COVID-19: MCCY advisory on religious activities</a>. 
 * Click [here](/media/1-COVID-19MCCYAdvisoryonReligiousActivities.pdf) for PDF.
 
 

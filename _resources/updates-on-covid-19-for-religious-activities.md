@@ -3,7 +3,7 @@ title: Updates on Covid-19 for Religious Activities
 permalink: /resources/advisories/
 ---
 ### COVID-19: From 13 February 2023, the DORSCON level has been lowered to DORSCON Green. 
-* For more detailed information, please refer to MOH's Press Release [here](https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic). 
+* For more detailed information, please refer to <a href="https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic">MOH's Press Release</a>. 
 
 
 ### COVID-19 Vaccination Our Primary Defence in Living with COVID-19 issued on 10 October 2022 
@@ -94,35 +94,34 @@ permalink: /resources/advisories/
 
 ### COVID-19: Moving Into Phase Three of Re-Opening for Religious Activities issued on 26 December 2020
 
-* Click [here]<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities"></a> to view.
+* For more information, see <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities">Moving into Phase Three of Re-opening for Religious Activites</a>.
 * Click [here](/media/MovingintoPhaseThreeofReOpeningforReligiousActivities26Dec2020v222032021.pdf) for PDF.
 * Click [here](/resources/faq/) for FAQs for Phase Three.
 
 ### COVID-19: Advisory on Resumption of More Religious Activities in Phase Two updated on 30 September 2020
-This advisory has been updated to reflect the higher limits for worship services and solemnizations as announced by the Multi-Ministry Taskforce on 23 Sep 2020.
-* Click [here]<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/sep/resumption-of-more-religious-activities-in-phase-two"></a> to view.
+This <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/sep/resumption-of-more-religious-activities-in-phase-two"> advisory on resumption of more religious activities in Phase Two</a> has been updated to reflect the higher limits for worship services and solemnizations as announced by the Multi-Ministry Taskforce on 23 Sep 2020.
 * Click [here](/media/ResumptionofMoreReligiousActivitiesinPhase218Junupdatedv3.pdf) for PDF.
 * Click [here](/resources/faq/) for FAQs for Phase Two.
 
 ### COVID-19: Advisory on Gradual Resumption of Religious Activities issued on 25 May 2020, 1600hrs
 
-* Click [here]<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/gradual-resumption-of-religious-activities"></a> to view.
+* For the more information, please refer to <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/gradual-resumption-of-religious-activities">Advisory on Gradual Resumption of Religious Activities</a>.
 * Click [here](/media/AdvisoryGradualResumptionofReligiousActivities.pdf) for PDF.
 
 ### COVID-19: Additional Guidance to Religious Organisations for Permitted On-site Activities issued on 14 May 2020, 0900hrs
 
-* Click [here]<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/additional-guidance-religious-organisations-permitted-on-site-activities"></a> to view.
+* For the more information, please refer to <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/additional-guidance-religious-organisations-permitted-on-site-activities">COVID-19: Additional Guidance to Religious Organisations</a>.
 * Click [here](/media/3-COVID-19MCCYAdditionalGuidance.pdf) for PDF.
 
 ### COVID-19: MCCY advisory to religious organisations on elevated safe distancing measures issued on 4 April 2020, 2200hrs
 
-* Click [here]<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/covid-19-mccy-advisory-to-religious-organisations-on-elevated-safe-distancing-measures"></a> to view. 
+* For the more information, please refer to <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/covid-19-mccy-advisory-to-religious-organisations-on-elevated-safe-distancing-measures">COVID-19: MCCY advisory to religious organisations</a>. 
 * Click [here](/media/2-COVID-19MCCYAdvisory.pdf) for PDF.
 
 ### COVID-19: MCCY advisory on religious activities issued on 26 March 2020, 1000hrs
 
-* Click [here]<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/mar/covid-19-mccy-advisory-on-religious-activities"></a> to view. 
+* For more information, please refer to<a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/mar/covid-19-mccy-advisory-on-religious-activities">COVID-19: MCCY advisory on religious activities</a>. 
 * Click [here](/media/1-COVID-19MCCYAdvisoryonReligiousActivities.pdf) for PDF.
 
 
-**To view more COVID-19 advisories, please click [here]<a href="https://www.gov.sg/article/covid-19-sector-specific-advisories"></a>.**
+**To view more COVID-19 advisories, please click <a href="https://www.gov.sg/article/covid-19-sector-specific-advisories">here</a>.**

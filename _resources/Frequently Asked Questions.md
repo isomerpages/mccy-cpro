@@ -16,13 +16,13 @@ There are no capacity limits for worship services or activities. ROs will have t
 
 2) Are we allowed to conduct AGMs and other social activities at Places of Worship?
 
-AGMs and other social activities can be held at places of worship. For more details, please refer to MOM’s advisory at [https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures)
+AGMs and other social activities can be held at places of worship. For more details, please refer to <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures"> MOM’s advisory</a>.
 
 3) Is sanitising of the premises after worship services still mandatory?
 
 Although not mandatory, we encourage ROs to continue regular cleaning, especially for the shared items and to ventilate the venue after use.
 
-ROs are encouraged to apply for the SG Clean Quality Mark, you may refer to the following link: [https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/](https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/)
+ROs are encouraged to apply for the <a href="https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/">SG Clean Quality Mark</a>.
 
 4) Is ART still a requirement for singers or persons playing wind/brass instruments?
 
@@ -32,7 +32,7 @@ ART is no longer required for personnel involved in live performance. There is n
 
 Singing in religious classes without masks on is permitted. 
 
-**Consumption of Food & Drinks**
+**Consumption of Food &amp; Drinks**
 
 6) Can food be served at Places of worship?
 

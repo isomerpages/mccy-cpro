@@ -5,5 +5,5 @@ date: 2021-01-27
 layout: link
 description: ""
 image: ""
-external: https://https://www.channelnewsasia.com/singapore/teenager-isa-planned-mosque-attack-religious-group-shanmugam-435086
+external: https://www.channelnewsasia.com/singapore/teenager-isa-planned-mosque-attack-religious-group-shanmugam-435086
 ---

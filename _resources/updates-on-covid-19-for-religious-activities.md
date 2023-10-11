@@ -94,7 +94,7 @@ permalink: /resources/advisories/
 
 ### COVID-19: Moving Into Phase Three of Re-Opening for Religious Activities issued on 26 December 2020
 
-* For more information, see <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities">Moving into Phase Three of Re-opening for Religious Activites</a>.
+* For more information, see <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities">Moving into Phase Three of Re-opening for Religious Activites</a>.
 * Click [here](/media/MovingintoPhaseThreeofReOpeningforReligiousActivities26Dec2020v222032021.pdf) for PDF.
 * Click [here](/resources/faq/) for FAQs for Phase Three.
 

@@ -1,0 +1,10 @@
+logo: /images/CPROlogosmall.jpg
+links:
+  - title: CPRO
+    collection: cpro
+  - title: COVID-19
+    collection: resources
+  - title: Media Centre
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us

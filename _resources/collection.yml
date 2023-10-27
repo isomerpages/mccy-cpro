@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - updates-on-covid-19-for-religious-activities.md
+      - Frequently Asked Questions.md
+      - Infographics.md
+      - community-initiatives.md

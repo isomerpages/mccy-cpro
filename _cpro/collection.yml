@@ -1,0 +1,7 @@
+collections:
+  cpro:
+    output: true
+    order:
+      - About CPRO.md
+      - partners-and-programmes.md
+      - cpro-self-assessment-checklist.md

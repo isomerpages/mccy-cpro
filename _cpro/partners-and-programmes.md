@@ -23,7 +23,7 @@ The Singapore Police Force administers Safety &amp; Security Watch Group (SSWG) 
 
 **Singapore Civil Defence Force**
 <br>
-The Singapore Civil Defence Force provides training on core lifesaving skills and essential emergency procedures. Click [here](https://www.scdf.gov.sg/home/community-volunteers/community-emergency-preparedness-programme-(cepp)) for more information.
+The Singapore Civil Defence Force provides training on core lifesaving skills and essential emergency procedures. Click [here](https://www.scdf.gov.sg/home/community-volunteers/responders-plus-programme-(rpp)) for more information.
 
 
 **Psychological First Aid**

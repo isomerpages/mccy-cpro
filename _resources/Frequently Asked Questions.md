@@ -22,7 +22,7 @@ AGMs and other social activities can be held at places of worship. For more deta
 
 Although not mandatory, we encourage ROs to continue regular cleaning, especially for the shared items and to ventilate the venue after use.
 
-ROs are encouraged to apply for the <a href="https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/">SG Clean Quality Mark</a>.
+ROs are encouraged to apply for the SG Clean Quality Mark.
 
 4) Is ART still a requirement for singers or persons playing wind/brass instruments?
 

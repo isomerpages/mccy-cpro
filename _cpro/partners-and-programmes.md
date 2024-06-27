@@ -31,7 +31,7 @@ Click <a href="https://www.police.gov.sg/community/community-programmes/safety-a
 more information.</p>
 <p><strong>Singapore Civil Defence Force</strong>
 <br>The Singapore Civil Defence Force provides training on core lifesaving
-skills and essential emergency procedures. Click <a href="https://www.scdf.gov.sg/home/community-volunteers/responders-plus-programme-(rpp)" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+skills and essential emergency procedures. Click <a href="https://www.scdf.gov.sg/home/community-volunteers/responders-plus-programme-(rpp))" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
 <p><strong>Psychological First Aid</strong>
 <br>Psychological First Aid is a crisis response intervention technique that

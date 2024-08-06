@@ -43,7 +43,8 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: ""
+description: Welcome to the official website of Crisis Preparedness for
+  Religious Organisations (CPRO).
 staging: https://staging.d23b37xyinmbuc.amplifyapp.com/
 prod: https://master.d23b37xyinmbuc.amplifyapp.com/
 plugins:

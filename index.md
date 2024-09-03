@@ -18,9 +18,6 @@ sections:
         - title: CPRO
           description: Find Out More
           url: /cpro/about-cpro/
-        - title: COVID-19
-          description: Forms, Advisories and Resources
-          url: /resources/Advisories/
         - title: Media Centre
           description: News
           url: /media-centre/

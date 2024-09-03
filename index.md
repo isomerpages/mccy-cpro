@@ -5,11 +5,9 @@ description: Welcome to the official website of Crisis Preparedness for
   Religious Organisations (CPRO).
 image: /images/isomer-logo.svg
 permalink: /
-notification: 'COVID-19: From 13 Feb 2023, the DORSCON level has been lowered to
-  DORSCON Green. For more detailed information, please refer to MOH’s <a
-  target="_blank"
-  href="https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic">Press
-  Release</a> <br> We thank you for your support in our fight against COVID-19.'
+notification: We invite representatives from Religious Organisations to complete
+  the <a target="_blank" href="https://go.gov.sg/cprochecklist1">CPRO
+  Self-Assessment Checklist</a> <br> to enrol in crisis preparedness programmes.
 sections:
   - hero:
       title: Crisis Preparedness for Religious Organisations

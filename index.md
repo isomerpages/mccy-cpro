@@ -6,8 +6,8 @@ description: Welcome to the official website of Crisis Preparedness for
 image: /images/isomer-logo.svg
 permalink: /
 notification: We invite representatives from Religious Organisations to complete
-  the <a target="_blank" href="https://go.gov.sg/cprochecklist1">CPRO
-  Self-Assessment Checklist</a><br> to enrol in crisis preparedness programmes.
+  the <a href="https://go.gov.sg/cprochecklist1">CPRO Self-Assessment
+  Checklist</a> to enrol in crisis preparedness programmes.
 sections:
   - hero:
       title: Crisis Preparedness for Religious Organisations

@@ -97,12 +97,6 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR_Code_for_MHA_Press_Release___23_Oct.png">
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -122,6 +116,9 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR_Code_for_Min_HA_s_FB_Post___23_Oct.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -140,6 +137,9 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR_Code_for_Min_HA_s_FB_Post__Part_2____23_Oct.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -153,6 +153,69 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/v/qhhRRAN2445jP3cb/</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR_Code_for_MOS_Sun_s_FB_Post___23_Oct.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOS Sun's Facebook Post</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/p/hf3Rxr6nE7i7dahM/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.facebook.com/share/p/hf3Rxr6nE7i7dahM/</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR_Code_for_CNA_Documentary___23_Oct.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CNA Documentary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.channelnewsasia.com/watch/when-crisis-calls/are-we-truly-ready-4684601" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.channelnewsasia.com/watch/when-crisis-calls/are-we-truly-ready-4684601</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR_Code_for_The_Daily_Ketchup_Podcast___23_Oct.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Daily Ketchup Podcast featuring Dr Mohamed Bin Ali</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/nOUX-Sv6EQI?si=lzZfrLGykAnHoQgl" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/nOUX-Sv6EQI?si=lzZfrLGykAnHoQgl</u></a>
 </p>
 </td>
 </tr>

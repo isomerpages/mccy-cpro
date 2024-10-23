@@ -93,9 +93,18 @@ our social cohesion. You can share your feedback and observations with
 our Crisis Preparedness for Religious Organisations (CPRO) Office through
 email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a>).&nbsp;</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.</p>
-<table style="minWidth: 75px">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR_Code_for_MHA_Press_Release___23_Oct.png">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -108,87 +117,45 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/mediaroom/press-releases/issuance-of-order-of-detention-under-the-internal-security-act-against-singaporean-youth</a>
 </p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="https://file.go.gov.sg/rahhyb.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Min/HA’s Facebook Posts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Part 1: On the incident&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/v/fBphHX4mzPrjqK7h/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://file.go.gov.sg/oufapn.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Part 2: Dealing with radicalisation</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/v/qhhRRAN2445jP3cb/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://file.go.gov.sg/8orbt9.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOS Sun’s Facebook Post</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/p/hf3Rxr6nE7i7dahM/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://file.go.gov.sg/n23uy6.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CNA Documentary</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/when-crisis-calls/are-we-truly-ready-4684601</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://file.go.gov.sg/nydb8b.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Daily Ketchup Podcast featuring Dr Mohamed Bin Ali</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/nOUX-Sv6EQI?si=lzZfrLGykAnHoQgl</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://file.go.gov.sg/dfhc96.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Min/HA’s Facebook Posts </strong><em>Part 1: On the incident</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/v/fBphHX4mzPrjqK7h/</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Min/HA’s Facebook Posts </strong><em>Part 2: Dealing with radicalisation</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/v/qhhRRAN2445jP3cb/</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

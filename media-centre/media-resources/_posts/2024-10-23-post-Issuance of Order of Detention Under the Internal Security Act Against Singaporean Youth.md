@@ -119,6 +119,14 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
@@ -138,6 +146,14 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/v/fBphHX4mzPrjqK7h/</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -161,6 +177,14 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
@@ -182,6 +206,14 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
@@ -201,6 +233,14 @@ email (<a rel="noopener noreferrer nofollow" target="_blank">cpro@mccy.gov.sg</a
 <td rowspan="1" colspan="1">
 <p><a href="https://www.channelnewsasia.com/watch/when-crisis-calls/are-we-truly-ready-4684601" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.channelnewsasia.com/watch/when-crisis-calls/are-we-truly-ready-4684601</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

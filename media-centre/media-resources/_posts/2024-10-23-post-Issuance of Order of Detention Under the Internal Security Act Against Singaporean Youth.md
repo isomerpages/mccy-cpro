@@ -9,7 +9,12 @@ description: Issuance of Order of Detention Under the Internal Security Act
 image: ""
 variant: tiptap
 ---
-<h4><strong><u>Issuance of Order of Detention against Self-Radicalised Singaporean Youth</u></strong></h4>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This post
+shares key learning points following an ISD press release last Friday,
+18 October 2024, on the issuance of Order of Detention against a self-radicalised
+Singaporean youth under the Internal Security Act (ISA).</p>
+<p><strong><u>Issuance of Order of Detention against Self-Radicalised Singaporean Youth</u></strong>
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 17-year-old
 male Singaporean was issued with an Order of Detention under the ISA in
 Sep 2024. He was a staunch supporter of the Islamic State in Iraq and Syria

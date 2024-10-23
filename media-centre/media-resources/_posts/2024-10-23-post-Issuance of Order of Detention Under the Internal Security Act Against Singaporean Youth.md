@@ -24,13 +24,13 @@ was exposed to the teachings of foreign radical preachers in Aug 2023 while
 searching for religious knowledge online. He started to <strong>subscribe to segregationist religious beliefs</strong>.
 The youth was subsequently radicalised when he was exposed to pro-ISIS
 materials online following HAMAS’s 7 Oct 2023 attacks.</p>
-<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By
-Jan 2024, the youth had become a staunch ISIS supporter. In May 2024, he <strong>pledged his allegiance to ISIS</strong> and
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By Jan
+2024, the youth had become a staunch ISIS supporter. In May 2024, he <strong>pledged his allegiance to ISIS</strong> and
 was willing to carry out any instructions from the group.</p>
-<p>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
-youth wanted to travel to Syria to join ISIS and had researched on the
-flight routes. However, due to the difficulties of getting there without
-arousing suspicions from his family, he settled on <strong>conducting an attack on non-Muslim males in Singapore during the school holidays in Sep 2024</strong>.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The youth
+wanted to travel to Syria to join ISIS and had researched on the flight
+routes. However, due to the difficulties of getting there without arousing
+suspicions from his family, he settled on <strong>conducting an attack on non-Muslim males in Singapore during the school holidays in Sep 2024</strong>.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The youth
 made extensive plans and preparation for the attack. Inspired by ISIS’s
 propaganda which glorified suicide knife attacks, he <strong>decided to conduct an attack near Tampines West Community Club </strong>as
@@ -47,38 +47,41 @@ activities online.</p>
 </p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The case
 above shows that:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The spread of terrorist and extremist
-ideologies online, especially those capitalising on the Israel-HAMAS conflict
-to encourage violence, has fuelled the self-radicalisation threat in Singapore.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
-public, especially youths, should stay vigilant and be discerning in the
-consumption of information on social media, to avoid falling prey to the
-influence of divisive, extremist, or violent material online.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Youth radicalisation</strong>,
-which usually takes place via online means, can occur within a span of
-only a few months or even a much shorter timeframe.</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time is of the essence when someone
-displays signs of radicalisation. <strong>Early reporting can help save lives by ensuring that the individual receive timely help, guidance, and counselling.</strong>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a. The spread of terrorist and extremist ideologies online, especially
+those capitalising on the Israel-HAMAS conflict to encourage violence,
+has fuelled the self-radicalisation threat in Singapore.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. The public,
+especially youths, should stay vigilant and be discerning in the consumption
+of information on social media, to avoid falling prey to the influence
+of divisive, extremist, or violent material online.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b. <strong>Youth radicalisation</strong>, which usually takes place via
+online means, can occur within a span of only a few months or even a much
+shorter timeframe.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c. Time is of the essence when someone displays signs of radicalisation. <strong>Early reporting can help save lives by ensuring that the individual receive timely help, guidance, and counselling.</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Family
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Family
 members and friends are best placed to notice changes in behaviour and
 alert the authorities if they suspect their loved ones have been radicalised.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii. Visit
 the <a href="https://www.sgsecure.gov.sg/resources" rel="noopener noreferrer nofollow" target="_blank">SGSecure website</a> to
 download a resource kit on “Encouraging Early Reporting of Suspected Radicalised
 Behaviours” which provides useful information on the signs of radicalisation,
 the channels of reporting and the process after the information is submitted
 to the authorities.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Watch the interview with Dr Mohamed Bin Ali, an expert in inter-religious
-relations and Co-Chairman and counsellor of the Religious Rehabilitation
-Group (RRG), on the topic of radicalisation and rehabilitation of radicalised
-persons on <em>The Daily Ketchup</em> podcast (link below).</p>
-<p>Anyone who knows or suspects that a person is radicalised should <strong>promptly contact the ISD hotline 1800-2626-473</strong> (1800-2626-ISD)
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii. Watch
+the interview with Dr Mohamed Bin Ali, an expert in inter-religious relations
+and Co-Chairman and counsellor of the Religious Rehabilitation Group (RRG),
+on the topic of radicalisation and rehabilitation of radicalised persons
+on <em>The Daily Ketchup</em> podcast (link below).</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+d. Anyone who knows or suspects that a person is radicalised should <strong>promptly contact the ISD hotline 1800-2626-473</strong> (1800-2626-ISD)
 or <strong>report via the SGSecure app</strong>.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The incident is a stark reminder
 of the ever-present terrorism threat to Singapore and the importance of

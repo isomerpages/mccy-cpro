@@ -54,6 +54,6 @@ developing psychological resilience plans for your organisation.</p>
 <p><strong>OnePeople.sg</strong>
 </p>
 <p><a href="http://OnePeople.sg" rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a> provides
-mediation training to community leaders.</p>
+mediation training to community leaders. Click <a href="https://www.onepeople.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p>
 <p><strong>To enrol in the programmes above, please complete this <a href="https://go.gov.sg/cprochecklist1" rel="noopener noreferrer nofollow" target="_blank">CPRO Self-Assessment Checklist</a></strong>
 </p>

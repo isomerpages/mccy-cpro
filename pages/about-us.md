@@ -18,12 +18,12 @@ Force, Temasek Foundation and OnePeople.sg. Through these partnerships,
 we have developed training programmes in emergency response skills, contingency
 planning, psychological resilience support and mediation training.</p>
 <h3>Partners and Programmes</h3>
-<p><strong>Inter-Racial and Religious Confidence Circles (IRCCs)</strong>
+<p><strong>Racial and Religious Harmony Circles (HCs)</strong>
 </p>
-<p>IRCCs are local-level interfaith platforms in every constituency, forme
-dto promote racial and religious harmony. The work of the IRCCs is instrumental
-in strengthening our social cohesion and supports the SGSecure movement.
-Click <a href="www.ircc.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Harmony Circles are local-level interfaith platforms in every constituency,
+formed to promote racial and religious harmony. The work of the HCs is
+instrumental in strengthening our social cohesion and supports the SGSecure
+movement. Click <a href="https://www.harmonycircle.sg/about-harmonycircle/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
 <p><strong>SGSecure</strong>
 </p>
@@ -43,7 +43,7 @@ more information.</p>
 <p><strong>Singapore Civil Defence Force</strong>
 </p>
 <p>The Singapore Civil Defence Force provides training on core lifesaving
-skills and essential emergency procedures. Click <a href="https://www.scdf.gov.sg/home/community-volunteers/community-emergency-preparedness-programme-(cepp)" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+skills and essential emergency procedures. Click <a href="https://www.scdf.gov.sg/home/community-volunteers/community-resources/responder-plus-programmes" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
 <p><strong>Temasek Foundation</strong>
 </p>

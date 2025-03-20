@@ -28,8 +28,8 @@ more information.</p>
 <p><strong>SGSecure</strong>
 </p>
 <p>SGSecure is the national movement to sensitise, train and mobilise Singaporeans
-in preventing and dealing with a terrorist attack. Click <a href="www.sgsecure.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information.</p>
+in preventing and dealing with a terrorist attack. Click <a href="https://www.sgsecure.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
 <p><strong>Singapore Police Force</strong>
 </p>
 <p>The Singapore Police Force administers Safety &amp; Security Watch Group
@@ -38,7 +38,7 @@ measures to fight crime and terrorism threats. Under this scheme, the Police
 will conduct a security survey of your organization and advise on your
 contingency plans. SSWG members can also network with neighbouring buildings
 and Police to know about security best practices and pooling of resources.
-Click <a href="www.police.gov.sg/community/community-programmes/safety-and-security-watch-group" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Click <a href="https://www.police.gov.sg/community/community-programmes/safety-and-security-watch-group" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
 <p><strong>Singapore Civil Defence Force</strong>
 </p>

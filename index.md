@@ -7,8 +7,9 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam, or <a
-  href="https://www.scamshield.gov.sg">visit scamshield.gov.sg</a> for more
+  Helpline at 1799 if you are unsure if something is a scam, or visit <a
+  class="external-link" target="_blank"
+  href="https://www.scamshield.gov.sg">scamshield.gov.sg</a> for more
   information.
 sections:
   - hero:

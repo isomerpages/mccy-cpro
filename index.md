@@ -5,9 +5,11 @@ description: Welcome to the official website of Crisis Preparedness for
   Religious Organisations (CPRO).
 image: /images/isomer-logo.svg
 permalink: /
-notification: We invite representatives from Religious Organisations to complete
-  the <a href="https://go.gov.sg/cprochecklist1">CPRO Self-Assessment
-  Checklist</a> to enrol in crisis preparedness programmes.
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam, or <a
+  href="https://www.scamshield.gov.sg">visit scamshield.gov.sg</a> for more
+  information.
 sections:
   - hero:
       title: Crisis Preparedness for Religious Organisations
